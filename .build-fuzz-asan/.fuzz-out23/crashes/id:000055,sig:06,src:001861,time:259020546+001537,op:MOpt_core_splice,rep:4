@@ -1,0 +1,158 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICÿ€ONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "sxref": 0,
+      "xrefoverlaid": 0,
+      "loaded_bit": 0,
+      "num_owned": 9,
+      "base_pt": [ 0.000000, 0.000000, 0.000000 ],
+      "xref_pname": "",
+      "num_inserts": 0,
+      "description": "",
+      "preview_sizc": 0,
+      "preview": "",
+      "ownerhandle": [4, 1],
+      "null_handle": [5, 0],
+      "block_entity": [3, 1085],
+      "entities": [
+        [3, 1097],
+        [3, 1098, 1100],
+        [3, 1101],
+        [3, 1102],
+        [3, 1103],
+        [3, 1104],
+        [3, 1105]
+      ],
+      "endblk_entity": [3, 1086],
+      "layout": [5, 0]
+    },
+    {
+      "entity": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries.: 3,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+        "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [t, 0],
+      "entries": [
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+        "type": 62,
+      "handle": [0, 7],
+      "size":handle": [0, 7],
+      "size": 1-,
+      "bitsize": 65,
+      "num_entries": 0,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPORT_CONTROL",
+      "index": 6,
+      "type": 64,
+      "handle": [0, 8],
+      "size": 17,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entrhard_owner": 0,
+   1  "texts": [
+  8     "*A1"
+      ],
+      "ownerhandle": [8, 0],
+      "reactors": [
+        [000 ],
+      "end": [ -775.932939, 4621.313010, 0.000000 ],
+      "thick   {T",
+      "dxfdle": [8, 0],
+      "reactorsndle": [0, 14],
+      "s"bitsize": 173,
+      "numitems": 1,
+     ],
+      "ownerhandle" [
+        [2, 1126]
+      ]
+    },
+    {
+      usion": [ 0.0000000000 ]
+    },
+    {
+      "entn": [ 0.000000, 00 ]
+    },
+    {
+      "entity"      "linewt": -2,
+      "start": [ -775.932939, 4621.313010, 00000, 1.000000 ]
+    },
+    {
+        "style": [5, 17]
+    },
+    {
+      "entity": "POINT",
+   usion": [ 0.000000, 0.000000, 1.000000 ],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREJº±T": 1
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "HEADER":   {
+    "unknown_0": 41214000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+      "cppname": "AcDefault",
+      "appname": "Objecsses",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "sxref": 0,
+      "xrefoverlaid": 0,
+      "loaded_bit": 0,
+      "num_owned": 9,
+      "base_pt": [ 0 0.000000, 0.000000 ],
+      "xr": "",
+      "num_inserts": 0,
+      "den": "",
+      "preview_sizc": 0,
+      "preview": "",
+      "ownerhandle": [4, 1],
+      "null_handle": [5, 0],
+      "bity": [3    [3, 1102],
+        [3, 1103]  [3, 1104],
+        [3, 1105]
+      ],
+      "etity": [3, 1086]"layout": [5, 0]
+    },
+    {
+      "entity": "STYLE_CONTROL",
+ dex": 2,type": 52,
+      "handle": [0, 3],
+      "size": 13,
+   ize": 73,
+      ndle": [4, 0],
+ tries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+        "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+           "num_entries": 10,
+   d_bit": 0,
+      "num_owned": 9,
+      "base_pt": [ 0 0.000000, 0.000000 ],
+      "xr": "",
+      "num_inserts": 0,
+      "den": "",
+      "preview_sizc": 0,
+      "preview": "",
+      "ownerhandle": [4, 1],
+      "null_handle": [5, 0],
+      "bity": [3, 1085],
+      "": [
+        [3, 1097],
+[3, 1098, 1100], [3, 1101],
+        [3, 1102],
+        [3, 1103]  [3, 1104],
+        [3, 1105]
+      ],
+      "endblk_entity": [3, 1086]"layout": [5, 0]
+    },
+    {
+      "entity": "STYLE_CONTROL",
+ dex": 2,type": 52,
+      "handle": [0, 3],
+      "size": 13,
+   ize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+        "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+        "type": 60,
+      "handle": [0, 6],
+,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [t, 0],
+      "entries": [
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+        "type": 62,
+      "handle": [0, 7],
+      "size": 10,
+      "bitsixe": 65,
+      "num_entries": 0,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPORT_CONTROL",
+      "index": 6,
+      "type": 64,
+      "handle": [0, 8],
+      "size": 17,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries.: [
+        [2, 602]
+      ]
+    },
+    {
+      "object": "APPID_CONTROL",
+      "index": 7,
+      "type": 66,
+      "hatity": [3, 1086],
+      "layout": [5, 0]
+    },
+    {
+      "entity": "STYLE_CONTROL",
+      "index": 2,
+      "type": 5ndle": [0, 9],
+     "ownerhandle": [4, 0],
+      "entries": [
+           ]
+    },
+    {
+      "objec
+  ],
+ltid": [5, 15]
+    }  {
+  ",   "index": [
+[2, 17]
+      ]
+    },
+    {
+   ries": [
+        [2, 0]
+      ]
+    },
+    {
+   nerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPries": [
+       ]
+    },
+    {
+      "layout": [5, 0]
+    },
+    {
+      "entity      "entries": [
+        [2, 17 3046]
+      ]
+    },
+    {
+   wnerhandle": [12, 2],
+  "reactortid": [5, 15]
+    }  {
+  "objectndex": [
+[2, 17]
+      ]
+    },
+    {
+      "obj    "block": [5, 1108]
+    },
+    {
+      "objec  "x_ang": 0.000000
+    },
+  ],
+  {
+    "MEASUREMENT": 1
+  }
+}

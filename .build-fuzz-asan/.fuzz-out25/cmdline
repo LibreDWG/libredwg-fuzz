@@ -1,0 +1,8 @@
+programs/dwgwrite
+-v0
+-y
+-I
+dxf
+-o
+/dev/null
+@@

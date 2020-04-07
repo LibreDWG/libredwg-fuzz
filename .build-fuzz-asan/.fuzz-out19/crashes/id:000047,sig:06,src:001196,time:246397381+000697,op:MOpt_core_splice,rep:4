@@ -1,0 +1,96 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  iew: 0,
+  "~de": 0,
+  "lag": 0,   "num_instances": 1,
+  "is_zombia": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]"size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31]"paper_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "typendle": [0, 2],   "size": 26,
+  "bitsize": 73,
+  "num_entries": 5,
+  "ownerhandle": [4, 0],   "entries": [
+[2, 16], [2, 137],
+    [2, 138], [2, 895],
+    [2, 1885]   ] },
+{
+  "object": "STYLE_CONTROL",
+  "index": 2,   "type": 52,
+  "handle": [0, 3],
+  "size": 13,   "bitsize": 73,
+  "num_entries": 1,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 17]
+  ]
+    }, {
+  "object": "LTYPE_CONTROL",
+  "index": 3,
+  "type": 56,
+  "handle": [0, 5],
+  "size": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "owande": 5',
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0]"ent": [ [2,],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0]
+  ]
+    }  {
+  "object" "POINT",
+  "index": 315,
+  "type": 27,   "handle": [0, 1123],
+  "size": 40,
+  "bitsize": 280,
+  "ownerhandle": [12, 15],
+  "layer": [5, 895],
+  "preview_exists": 0,
+  "entmode": 0,
+  "num_reactors": 0,
+  "xdic_missing_flag": 1,
+  "color": {
+"rgZ": "00",
+"flag": 32
+  },
+  "ltype_scale":0,
+  "ltype_flags": 0,
+  "plotstyle_flags": 0,
+  "invisible": 0,   "x": 801,   "y": 035,   "z":0,
+  "thickness":0,
+  "extrusion": [0, 0 1.00 ],
+  "x_ang": 0},
+  ],
+  "Template"  {
+"MEASUREMENT": 1
+  }
+}

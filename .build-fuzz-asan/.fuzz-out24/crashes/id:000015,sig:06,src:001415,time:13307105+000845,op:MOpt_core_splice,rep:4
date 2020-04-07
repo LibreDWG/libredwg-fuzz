@@ -1,0 +1,29 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       (                             ,
+      "index": 315,
+      "rusion": [ 0.000000, 0.000000, 1.000000 ],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREMEST": 1
+  }
+}

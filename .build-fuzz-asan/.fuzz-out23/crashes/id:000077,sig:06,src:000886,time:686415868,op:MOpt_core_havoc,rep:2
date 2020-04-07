@@ -1,0 +1,311 @@
+{
+  "HEADER":   {
+    "unknown_0": 41214000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+  bet": 500,
+      "dxfname": "ACD",
+     e": "AcDefault",
+      "appname": "Objecsses",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+        "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381], [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31]"paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+        "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+[2, 16], [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "oes": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895], [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4, 0]"entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+        "type": 60,
+      "handle": [0, 6]"size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [t, 0],
+      "entries": [
+        [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+        "type": 62,
+      "handle": [0, 7],
+      "size": 10,
+      "bitsize": 65,
+      "num_entries": 0,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPORT_CONTROL",
+      "inîex": 6,
+      "type": 64,
+      "handle": [0, 8],
+      "size": 17,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 602]
+      ]
+    },
+    {
+      "object": "APPID_CONTROL",
+      "index": 7,
+      "type": 66,
+      "handle": [0, 9],
+      "size": 37,
+      "bitsize": 73,
+      "num_entries": 9,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 18],
+        [2, 710],
+        [2, 728], [2, 917],
+        [2, 1890],
+        [2, 1891], [2, 2853],
+        [2, 2862],
+        [2, 3046]
+      ]
+    },
+    {
+      "object": "DIMSTYLE_CONTROL",
+      "index": 8,
+      "type": 68,
+      "handle": [0, 10],
+      "size": 17,
+      "bmtsize": 81,
+      "num_entries": 2,
+      "num_morehandles": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 39],
+        [2, 0]
+      ],
+      "morehandles": [
+        [5, 39]
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+        "type": 42,
+      "handle": [0, 12]"size": 478,
+      "bitsize": 3373,
+      "numitems": 21,
+      "cloning": 1,
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTnTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTwnerhandle": [4, 0],
+ tries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4$ 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+        "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [t, 0],
+      "entries": [
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+        "type": 62,
+      "handle": [0, 7],
+      "size": 10,
+      "bitsize": 65,
+      "num_entries.: 0,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPORT_CONTROL",
+      "inîex": 6,
+      "type": 64,
+      "handle": [0, 8],
+      "size": 17,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+[2, 602]
+      ]
+    },
+    {
+      "object": "APPID_CONTROL",
+      "index": 7,
+      "type": 66,
+      "handle": [0, 9],
+      "size": 37,
+      "bitsize": 73,
+      "num_entries": 9,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 18],
+        [2, 710],
+        [2, 728],
+        [2, 917], [2, 1890],
+        [2, 1891],
+        [2, 2853]  [2, 2862],
+        [2, 3046]
+      ]
+    },
+    {
+      "object": "DIMSTYLE_CONTROL",
+      "index": 8,
+      "type": 68,
+      "handle": [0, 10],
+      "size": 17,
+      "bmtsize": 81,
+      "num_entries": 2,
+      "num_morehandles": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+[2, 39], [2, 0]
+      ],
+      "morehandles": [
+[5, 39]
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index": 9,
+      "type": 42,
+      "handle": [0, 12],
+      "size": 478,
+      "bitsize": 3373,
+      "numitems": 21,
+      "cloning": 1,
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+      "index": 307,
+ype": 49,
+      "handle": [0, 1108],
+      "size": 49,
+ tsize": 144,
+      "name": "*D",
+      "xrefref"B 1,
+      "xrefus1": 0,
+      "xrefdep": 0,
+      "anonymous": 1,
+      "hasattr≥": 0,
+      "blkisxref": 0,
+      "xrefoverlaid": 0,
+      "loaded_bit": 0,
+     y": 435,
+      "z": 0.000000,
+      "thickness": 0.000000,
+  rusion": [ 0.000000, 0.0],
+      "x_ang": 0.000000
+    },
+  ],
+  "Templa€€€€€€":     {
+ UREMENT": 1
+  }
+}

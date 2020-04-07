@@ -1,0 +1,44 @@
+{
+  "HEADER"{
+    "u": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "nudber": 500,
+ e": "AC9",
+  "cppname": "AcDlt",   "appname": "O",
+ ght": 10,
+  ame": "",
+  "own": [4, 3],
+  "ex": [5, 0]
+    }, {
+  "ob": "D",
+  "i": 15,
+  "tys1": 0,
+  "xeå": 0,
+  "uwn": 0,
+  "ol^": [4, 9],   "dle"< [5, 0] },
+<<Z    {ex": 16,  0,dle": [4, 9]ndle": [5, 0]
+    }, {
+  "ob": "E",
+  "i": 16 "proxyflag": 0,
+  "num_instances": 1,
+  "is_zombie": 0,
+  id": 499 },
+  ],
+  "OBJECTS": [
+{
+  "object": "BLOCK_CONTROL",
+  "inde_height": 0000,
+  le": [5, 27] },
+{
+  "entity": "PIINT",
+  "index": 315,
+  "typeextrusion": [  ],
+  "x_ang": 0},
+  ],
+  "Template"  {
+"MEASUREMENT": 1
+  }
+}

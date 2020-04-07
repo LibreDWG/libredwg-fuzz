@@ -1,0 +1,44 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSAsK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1],
+  "size": 57,
+ze": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31],
+  name": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [000, 1],
+  "x_ang":0
+    }]"Template": {
+    "MNT": 1
+  }
+}

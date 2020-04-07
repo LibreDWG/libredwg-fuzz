@@ -1,0 +1,39 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDe™ault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "type": 78,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries: 1,
+  "linespor":0,
+  "bgl_flag": 0,
+ """""""""""""""""""""""""""""""""""""""""""""""""" """""""""""""""""""""""""""""""""""""""""""""""""" "s": [5, 17]0, de": 0, ors": 0,
+  "xdic_missi~g_flag": 1,
+  "color": { "rgb": "00",ag": 3},
+  "ltype_scale": 1000,   "ltype_flags": 0,   "p_flags": 0,   "Ynvisible": 5,
+  "z":0,
+  "thickness": 0000,   "e": [ 1],
+  "x_ang":0 }]"": {1
+  }
+}

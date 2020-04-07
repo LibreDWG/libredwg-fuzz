@@ -1,0 +1,50 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDiútionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+        "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhaëdle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index"": 5ç,
+  "handle": [0, 5]"s    [2,":&0, t": 0,
+ y":7035,
+    "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDiútionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_  "z":0,
+  "thiss":0,
+  "e": [0, 0 1]"g": 0}]"Template"  {
+NT": 1
+  }
+}

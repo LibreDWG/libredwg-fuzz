@@ -1,0 +1,167 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000,+0.00, @],
+  },
+  "CLASSES": [
+{
+  "numbïr": 500,
+  "dxfname": "ACD",
+ e": lt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,d": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handle": [0, 1]"size": 57,
+  "bitsize": 73,ies": 15,
+  "ownerhandle": 3,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 22],
+[2, 0],
+[2, 0]
+  ],
+ k": [3, 20]"yer": [3]
+    }  {
+  "object": "VIEW_CONTROL",
+"type": 60,
+  "handle": [0, 6],
+  "size": 21,
+  "bitsize": 73,
+  "num_entries": 10,
+  "ownerhandle": [t, 0],   "eed": [[]
+  ]8,
+  "bitsize": 275,name": "",
+ p": 0,
+ file": 0,
+  "vertical": 0,
+ or":0,
+  "oblique_ang": 0000,
+  "generation": 0,   "last_height": 00,
+  me": "txt",
+ame": "",
+  "ownerhandle": [4, 3],
+  "ex": [5, 0]
+    }, {
+  "object": "APPID",
+ "type": 67,   "handle": [0, 18]"size": 19,
+  "bitsize": 125,
+  "name": "ACAD",
+  "xrefref": 1,
+  "xrefindex_plus1": 0,
+  "xrefdep": 0,
+  "unknown": 0,
+  "ownerhandle": [4, 9],"handle": [0],
+  "size": 280,
+  "biãåñÖe": 2209,   "name": "ock",
+  "xrefref": 1,
+  "xrefindex_plus1": 0,
+  "xÚet_height": 00,
+ ame": "txt",
+  "bitsize": 173,
+ mize": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "hard_owner": 0,
+  ts": [
+ al"
+  ]"ownerhandle": [12, 2],
+  "reactors": [
+[4, 12]
+ (],R   "index": 3,
+  "type": 56,
+  "handle": [0, 5]"TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTs": [ [2, 15]
+  ]id": [5, 15] }  {
+  "object": "LAYER",   "index": [
+[2, 17]
+  ]
+},
+    {   "object": "LTYPE_CONTROL",
+  "index": 3,
+  "type": 56,
+  "handle": [0, 5]"sTTTTTTTTTTTHTTTTTTTTTTTTTTTTTTTTTTTTTˇˇTTTTYTTTTTTTTTTTTTTTTTTTTTTTTTTTTotation": 0000,
+  "horiz^dir":0,
+ ale": [ 1000 ],
+  "iotatiçn": 0.00,
+  "ûããûchment": 5,
+  "ls_style": 1,
+  "le_factor": 1000,   "measurement":7035,
+  "clot": [ 0. ],   "_pt": [ 0000 ],
+  "f": 0,
+  "": [5, 34],   "k": [5, ]
+    }, {
+  "object": "BLOCK_HEADER",
+  "type": 49,   "handlö›:  "s: 49,
+  "bit": 1 57,
+  "t": "FLT",
+  "dxfname": "FLT",
+ "type": P00,
+  "handle": [0, 14]"size": 30,
+  "bitsize": 173,   "numitems": 1,
+  "clo": 1,
+  "hard_owner": 0,s": [
+  l"
+  ],
+dle": [2],
+ le": [5]"ltype": [5] },
+{
+  "object": "STYLE",
+ "type": 53,
+  "handle": [0, 17]"size": 38,
+  "bitsize": 275,   "name.: "",
+  "xrefref": 1,
+  "xndex_pl]s1": 0,
+  "xrefdep": 0,
+  "shape_file": 0,
+  "vertical": 0,
+ or":0,
+  "oblique_ang":0,
+  "generation": 0,   "last_height": 00,
+  "font_name": "txt",
+  "bigfont_name": "",
+  "ownerhandle": [4, 3],
+  "extref": [5, 0]
+    }, {
+  "object": "APPID",
+ "type": 67,   "handle": [0, 18]"size": 19,
+  "bitsize": 125,
+  "name": "ACAD",
+  "xrefref": 1,
+  "xrefindex_plnerhandle": [4, 9],"handle": [0],
+  "size": 280,
+  "biãåñÖe": 2209,   "name": "ock",
+  "xrefref": 1,
+  "xrefindex_plus1": 0,
+  "xÚet_heibht": 00,
+ ame": "txt",
+  "bitsize": 173,
+e": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "hard_owner": 0,
+  ts": [
+ al]"ownerhandle": [12, 2],
+  "reactors": [
+[*, 12]
+ (],R   "index": 3,
+  "type": 56,
+  "handle": [0, 5]"TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTs": [ [2]
+  ]id" "name": "*D",
+  "xef"B 1,
+  "xndexØplus1": 0,
+  "xrefdep": 0,
+  "anonymous":&1,
+  "hasattrs": 0,
+  "blkisxref": 0,   "xverlaid": 0,
+  "loaded_bit": 0,  y": 470,
+  "z":0,
+  "thTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTqTTTTTTTTTTTTTTTTTTTTTickness":0,
+  "exion": [ 0],
+  "x_ang": 0}],
+  "Tate"  {
+"ENT": 1
+  }
+}

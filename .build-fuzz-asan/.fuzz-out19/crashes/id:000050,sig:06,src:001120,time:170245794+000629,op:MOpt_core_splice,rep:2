@@ -1,0 +1,85 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      me": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+    ries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+ce": [3, 31]"paper_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],   "size": 26,
+  "bitsize": 73,
+  "num_en_entries": 1,
+  "ownerhandle": [4, 0],   "entries": [
+[2, 602]   ] },
+{
+  "object": "APPID_CONTROL",
+  "index": 7,   "type": 66,
+  "handle": [0, 9],
+  "size": 37,   "bitsize": 73,
+  "num_entries": 9,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 18],
+    [2, 710], [2, 728],
+    [2, 917], [2, 1890],
+[2, 1891],
+    [2, 2853]  [2, 2862], [2,6]
+  ]
+    }  {
+  "object": "DIMSTYLE_CONTROL",
+  "index": 8,
+  "type": 68,
+  "handle": [0, 10],   "size": 17,
+  "bitsize": 81,
+  "num_entries": 2,
+  "num_morehandles": 1,
+  "ownerhandle": [4, 0],   "entries": [
+[2, 39], [2, 0]
+  ],   "morehandles": [
+[5, 39]
+  ]
+},
+    {   "object": "DICTIONARY",
+  "index": 9,   "type": 42,
+  "handle": [0, 12],
+"unknown_bit": 0,
+  "bg__flag": 0,
+  "style": [5, 17]
+    }, {
+  "entity": "POINT",
+  "inds": 0,   "xdic_missing_flag": 1,
+  "color": {
+"rgb": "00", "flag": 32
+  },   "ltype_scale": 1.00,
+  "ltype_flags": 0,
+  "p
+      "ct": "LACONTgs": 0,
+  "invisible": 0,
+  "y": 470,
+  "z":0,
+  "thickness": 0.00,
+  "extrusion": [0, 0 1.00 ],   "x_ang": 0000 },
+  ],
+  "Template":     { "MEASUREMENT": 1
+  }
+}

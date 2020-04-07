@@ -1,0 +1,189 @@
+{
+  "HEADER":   {
+    "unknown_0": 41214000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+      "cppname": "AcDefault",
+      "appname": "∞ùjecsses",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "t": "DICTFLT",
+      "dxfname": "FLT",
+  
+      "type": 500,
+      "handle": [0, 14],
+      "size": 30,
+      "bitsize": 173,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+   s": [
+  ormal"
+      ],
+dle": [12, 2],
+ tstyle": [5, 15]"ltype": [5, 22]
+    },
+    {
+      "object": "STYLE",
+ "type": 53,
+      "handle": [0, 17],
+      "size": 38,
+      "bitsize": 275,
+      "name": "Standard",
+      "xrefrf": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "shape_file": 0,
+      "vertical": 0,
+ or": 1.000000,
+      "oblique_ang": 0.000000,
+      "generation": 0,
+      "last_height": 00,
+      "font_name": "txt",
+      "bigfont_name": "",
+      "ownerhandle": [4, 3],
+      "extref": [5, 0]
+    },
+    {
+      "object": "APPID",
+         "type": 67,
+      "handle": [0, 18]"size": 19,
+      "bitsize": 125,
+      "name": "ACAD",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "unknown": 0,
+      "ownerhandle": [4, 9],
+   "handle": [0, 20],
+      "size": 280,
+      "bitsize": 2209,
+      "name": "ByBlock",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xÚefdep": 0,
+      "description": "",
+      "pattern_len": 0.000100,
+      "alignment": 65,
+      "num_dashes": 0,      "reactors": [ [t, 12]
+      ]"itemhandles": [ [2, 10]
+      ]"defaultid": [5, 15]
+    },
+    {
+      "object": "LAYER",
+ "type": 51,
+      "handle": [0, 16],
+      "size": 30,
+      "bitsize": 155,
+      "name": "0",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+          "plotflag": 0,
+          "color": {
+"rgb": ""
+      },
+      "ownerhandle": [4, 2]"xref": [5, 0],
+      "plotstyle": [5, 15]"ltype": [5, 22]
+    },
+    {
+      "object": "STYLE",
+      "index": 14,
+      "type": 53,
+      "handle": [0, 17],
+      "size": 38,
+      "bitsize": 275,
+      "name": "Standard",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "shape_file": 0,
+      "vertical": 0,
+      "fixed_height": 0.000000,
+      "width_factor": 1.000000,
+      "oblique_ang": 0.000000,
+      "generation": 0,
+      "last_height": 00,
+      "font_name": "txt",
+  "bitsize": 173,
+      "numize": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "hard_owner": 0,
+  ts": [
+ al"
+  ],   "ownerhandle": [12, 2],
+  "reactors": [
+    [4, 12]
+ (],
+eNTR   "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTs": [
+    [2, 15]
+  ],
+ltid": [5, 15]
+    }  {
+  "object": "LAYER",   "index": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "sTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTˇˇTTTTYTTTTTTTTTTTTTTTTTTTTTTTTTTTTotation": 0.000000,
+      "horiz_dir": 0.000000,
+      "ins_scale": [ 1000 ],
+      "ins_rotation": 0.000000,
+      "attachment": 5,
+      "lspace_style": 1,
+      "lspace_factor": 1.000000,
+      "act_measurement":7035,
+      "clot": [ 0. ],
+      "featuion_pt": [ -276.854801, 00000 ],ndpt": [2939, 460, 0.000000 ],    "": [5, 39],
+      "block": [5, 1108]
+    },
+    {
+      "object": "BLOCK_HEADER",
+          "type": 49,
+      "handlö›:  "size": 49,
+      "bitsize": 144,
+      "name": "*D",
+      "xrefref"B 1,
+      "xrefindexØplus1": 0,
+      "xrefdep": 0,
+      "anonymous":&1,
+      "hasattrs": 0,
+      "blkisxref. ],
+      "featuion_pt": [ -276.854801, 00000 ],ndpt": [2939, 460, 0.000000 ],
+      ": 0,
+      "xrefoverlaid": 0,
+      "loaded_bit": 0,
+     y": 470,
+      "z": 0.000000,
+      "thTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTickneså›: 0.000000,
+      "extrusion": [ 0.000],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "ENT": 1
+  }
+}

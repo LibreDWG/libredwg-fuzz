@@ -1,0 +1,48 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfnamU": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "isbi~": >,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handle": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80790]
+  ]
+},	{   "object": "DICTIONARY",
+  "index": 10,
+    "_jeight":0,
+  "ahment": 5,
+  "drg_dir": 1,
+  "ext_he–˜—‹": 2.67,
+  "e [12, 15], ayer": [5, 895],ts": 0, de": 0, ors": 0,
+  "xdic_missing_flag"xten": 1,
+  "text": "470",
+  "listyle": 1,
+  "linespor":0,
+  "bgl_flag": 0,
+ """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" "s": [5, 17]
+}  {
+  ity": "P",  dex": 315,  pe": 27,le": [0,3],
+e": 280,dle": [12, 15], ayer": [5, 895],ts": 0, de": 0, ors": 0,
+  "xdic_missing_flag": 1,
+  "color": { "rgb": "00",ag": 3},
+  "ltype_scale": 1000,   "ltype_flags": 0,   "p_flags": 0,   "invisible": 5,
+  "z":0,
+  "thickness": 0000,   "e": [ 1],
+  "x_ang":0 }]"": {1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "HEADER"{
+    "u": 400,
+ACJ": [ 00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+ e": "ACD",
+ e": lt",   "appname": "O",
+ ght": 10,
+  ame": "",
+  "own": []
+   3}, {
+  "ob": "D",
+  "i": 15,
+ s1": 0,
+ep": 0,
+wn": 0,
+l^": [4, 9],   "dle"< [5, 0] },
+<<<    {ex": 16,  0,dle": [4, 9]ndle": []
+    }, {
+  "ob": "E",
+  "i":-16 "proxyflag": 0,
+  "num_instances": 1,
+  "is_zombie": 0,
+  id": 499 },
+  ],
+  "OBJECTS": [
+{
+  "object": "BLOCK_CONTROL",
+  "inde_height": 0000,
+  le": [5, 17] },
+{
+  "entity": "¯°INT",
+  "index": 315,
+  "typeextrusion": [  ],
+  "x_ang": 0},
+  ],
+  "Template"  {
+"MEA  "u": 400,
+ACK"! [  ],
+  },SES": [
+{
+  [ 0000 ]},
+ [
+{
+ 0},
+  ]{
+"
+": 0},
+  ],
+  {
+
+  }
+}

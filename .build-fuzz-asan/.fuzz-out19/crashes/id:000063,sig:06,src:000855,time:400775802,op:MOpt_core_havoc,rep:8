@@ -1,0 +1,55 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCKORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dx^name": "A_D",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+ entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+ s": [
+    [2, 17]
+8 ]
+    }  {
+  "object": "LTYPE_CONTROL",   "index": 3,
+  "type": 56,   "handle": [0, 5],   "size": 19,
+  "bitÄize": 73,
+  "num_entries": 3,
+  "oe": [4, 0]"entries": [ [2, 39]  [2, 0]   ]"morehandles": [ [5, 39]   ] },
+{
+  "object": "DICTIONARY",
+  "index": 9,
+  "type": 42,
+  "handle": [0, 12], "owì_bit": 0,
+  "bgl_flag": 0,
+  "s": [5, 17] }  {
+  "entity": "POINT",   "index": 315, yle_flags": 0,   "invisible": 0,
+  "x": -21,
+  "y": 475,
+  "z": 0.00,
+  "thickness":0,   "extrusion": [ 0.00, 000*, 1.00 ]"x_s":00,   "entmode": 0,   "num_reactors": 0,
+  "xdic_missing_flag": 1,
+  "color": { "rgb": "00",
+"flag": 32   }"ltype_scale":0,   "ìãÜèe_flags": 0,   "plotstyle_flags": 0,   "invisible": 0,
+  "x": -21,
+  "y": 475,
+  "z": 0.00,
+  "thickness":0,   "extrusion": [ 0.00, 0000, 1.006]"x_ang": 0},
+  ]"Template": {
+"MEASUREMENT": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_inst„nces": 1,
+  "Os_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]"size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "enries": 3,
+  "harner": 0,s": [
+ a ],   "ownerhandle": [12, 2]"reactors": [
+    [8, 12]
+ (],
+e  "index": 3,
+  "type": 56,
+  "handle": [0, 5],
+  "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTs": [
+    [2, 15]
+  ],
+ltid": [5, 15]
+    }  {
+  "object": "LAYER",   "index": [
+    [2, 17]
+  ]
+    }, {
+  "object": "LTYPE_CONTROL",
+  "index": 3,
+  "type": 56,
+  "handle": [0, 5],
+  "sTTTTTNTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTotation": 0000,
+  "horiz_dir":0,
+ ale": [ 0000, 1.00, 0000 ],
+  "iotation": 0.00,
+  "attachment": 5,
+  "ls_style": 1,
+  "lctor": 1000,   "urement": 475,
+ pt": [ 0 0.00 ],_pt": [ -276 470, 0.00 ]"leader_endpt": [ -79, 410, 0000 ],
+  "flag2": 0,
+  "dime": [5, 39],   "k": [5, 1108]
+    }, {
+  "object": "BLOCK_HEADER",
+ 2    "index": 307,
+  "type": 49,   "le": [0,8],
+  "size": 4T9,
+  "bit": 144,
+  "": "*D",
+  "xef"B 1,
+  "xrefindex_plus1.: 0,
+  "xrefdep": 0,
+  "anonymous":&1,
+  "hasattrs": 0,
+  "blkisxref": 0,   "xrefoverlaid": 0,
+  "loaded_bit": 0,  y": 475,
+  "z": 0.00,
+  "tTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTickness":0,
+  "e": [0, 0 0000 ],
+  "x_ang": 0},
+  ],
+  ""  {T": 1
+  }
+}

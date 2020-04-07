@@ -1,0 +1,69 @@
+{
+  "HEADER":   {
+    "unknown_0": 41214000000,
+    "UCSORGBA*K": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+     '"cppname": "AcDefault",
+      "appname": ": 0,
+  "xep": 0,
+  "uwn": 0,
+  "ol^": [4, 9],   "dle"< [5, 0] },
+<<<    {ex": 16,  0,dle": [4, 9]ndle": []
+    }, {
+  "ob": "E",
+  "i":-16 "proxyflag": 0,
+  "num_instances": 1,
+  "is_zombie": 0,
+  id": 499 },
+  ],
+  "OBJECTS": [
+{
+  "object": "BLOCK_CONTROL",
+  "inde_height": 0000,
+  Pe": [5, 17] },
+{
+  "entity": "POINTÝÓõß "index": 315,
+  "typeextrusion": [  ],
+  "x_ang": 0},
+  ],
+  "Template"  {
+"MEA"HEA  "u": 400,
+"UCSACK": [  ],
+  },
+  "SES": [
+{
+  "num: ""2own": [],
+  "ex": []
+    }, {
+ ": "D",
+  "i  "u 0,RK": [ 0000 ]},
+  "CLASSES": [
+{
+  "n: "A
+ e": lt",  t": 10,
+e": "",
+  "o
+  "ob": "D",
+  "i": 15,tys1": 0,
+  "xep": 0,
+  "uwn": 0,
+   "dle"< [5, 0] }<    {ex": 1A,  0,dle": [4, 9]ndle": []
+ie": 0,
+  id": 499 }],
+ S": [
+{
+  "o"x_ang": 0},
+  ]e"  {
+"
+l^": [4, 9],: [4, 9] [5, 17] },
+{
+    "x": 0},
+  ],
+  {
+
+  }
+}

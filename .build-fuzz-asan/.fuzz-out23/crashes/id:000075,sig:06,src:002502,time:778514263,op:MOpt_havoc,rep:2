@@ -1,0 +1,29 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 498
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "inex": 0,
+r": 500,
+  "dxfname": "ACD",
+  "ame": "A",   "ape": "O",
+  "g": 0,   "nustances": 1,
+  "‡‡‡‡‡‡‡‡‡e": 26,
+ es": 5,
+  "ownerhandle": [4, 0],   "entries.: [
+[2, 16], [2, 137ˇˇˇˇ2, 138],
+ ],   "x_ang": 0000 }],
+  "Template": { "MEASUREMENT": 1
+  }
+}

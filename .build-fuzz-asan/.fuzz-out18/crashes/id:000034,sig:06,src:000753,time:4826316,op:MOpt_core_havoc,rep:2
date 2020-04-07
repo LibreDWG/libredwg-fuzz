@@ -1,0 +1,61 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname":4"AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handle": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries":: 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handle": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31],
+  "par_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],   "size": 26,
+  "biנננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננr": 1,
+  "ext˜—‹": 2.67,
+  "e": 1,
+  "text": "470",
+  "lie": 1,
+  "linespor":0,
+  "bgl_flag": 0,
+  "s": [5, 17]
+    }  {
+  "entity": "POINT",   "index": 315,  
+  "ltype_scale": 1000,   "ltype_flags": 0,   "plotstyle_flags": 0,   "invisiblT": 5,
+  "z": 0.00,
+  "thickness": 0000,   "ize": 73,   "numtrusion": [ 0.00, 0000, 1.00 ],
+  "x":0
+},
+  ]"Template": {
+"MNT": 1
+  }
+}

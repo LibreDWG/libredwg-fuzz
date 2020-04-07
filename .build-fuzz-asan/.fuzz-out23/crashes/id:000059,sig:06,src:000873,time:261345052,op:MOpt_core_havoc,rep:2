@@ -1,0 +1,50 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+ d"number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]"size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space.: [3, 31]"paper_space": [3, 85]
+    }  {
+  "object": "¼AYOL",x": 1,
+ pe": 50,le": [0, 2],size": 26,
+ e": 73,
+es": 5,
+le": [4, 0],ies": [
+[2, 16], [2, 137],
+    [2, 138], [2, 89'],
+    [2, 1885]   ] },
+{
+  "object": "STYLE_CONTROL",
+  "index": 2,   "type": 52,
+  "handle": [0, 3],
+ "ltype_scale": 1000,   "ags": 0,   "ags": 0,   "invisible": 0,
+  "x": -21,
+  "y": 475,
+  "z": 0.00,
+  "t": 0000,   "n": [ 0.00, 0000, 1.00 ]"x_ang":0
+    },
+  ]"Template": {
+    "MEASUREMENT": 1
+  }
+}

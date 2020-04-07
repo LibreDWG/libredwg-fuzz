@@ -1,0 +1,270 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfnmme":'"ACD",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 498
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "iniew_size": 0,
+      "preview": "",
+      "ownerhandle": [4, 1],
+      "null_handle": [5, 0],
+      "block_ies": [
+        [3, 1076],
+       [3, 1082]
+      ],
+      "endblk_entity": [3, 1075],
+      "layout": [5, 0]
+    },
+    {
+      "entity": "BLOCK",
+      "index": 282,
+      "type": 4,
+      "handle": [0, 1074],
+      "size": 20,
+      "bitsize": 134,
+      "ownerhandle": [8, 0],
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "index": 256,
+        "rgb": "000000",
+        "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "name": "*D7"
+    },
+    {
+      "entity": "ENDBLK",
+      "index": 283,
+      "type": 5,
+      "handle": [0, 1075],
+      "size": 16,
+      "bitsi:e": 92,
+      "ownerhandle": [12, 2],
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "index": 256,
+ "flag": 1
+      },
+      "ltypeflags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0
+    },
+    {
+      "entity": "LINE",
+      "index": 284,
+      "type": 19,
+      "handle": [0, 1076],
+      "size": 47,
+      "bitsize": 341,
+      "ownerhandle": [12, 3],
+      "layer": [5, 138],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rgb": "000000",
+        "flag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "linewt": -2,
+      "start": [ 4630.519359, 4515.053950, 0.000000 ],
+      "end": [ 4630.519359, 4208.776714, 0.000000 ],
+      "thickness": 0.000000,
+      "extrusion": [ 0.000000, 0.000000, 1.000000 ]
+    },
+    {
+      "entity": "LINE",
+      "index": 285,
+      "type": 19,
+      "handle": [0, 1077],
+      "size": 51,
+      "bitsize": 373    "object": "LAYER",
+      "index": 13,
+      "type": 51,
+      "handle": [0, 16],
+      "size": 30,
+      "bitsize": 155,
+      "name": "0",
+      "xrefref": 1,   "xrefÿp": 0,
+      "flag": 1008,
+      "dlotflanewt": -3,
+      "color": {
+        "rgb": "c3000007"
+      },
+      "ownerhandle": [4, 2],""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""     "x_plus1": 0,"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""": "txt",
+      "bigf": "",
+      "ownerhandle": [4, 3],
+      "extref": [5, 0]
+    },
+    {
+bject": "APPID",index": 15,
+      "type": 67,
+  dle": [0, 18],
+ ze": 19,bitsize": 125,
+ me": "ACAD",
+   ref": 1,x_plus1": 0,
+   dep": 0,unknown": 0,
+   rhandle": [4, 9]ndle": [5, 0]
+_C
+      "index": 1,
+      "type":   "s  "handle": [0, 20]"size": 280,
+      "bitsize": 2209,
+      "name": "B†½lock",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,ion": "",
+      "pattern_len": 0.000000,
+      "ownerhandle": [4, 0],
+      "entries": [ [2, 18]  [2, 710],
+        [2, 728],
+        [2, 917],
+[2, 1890],
+        [2, 1891],
+        [2, 2853], [2, 2862],
+        [2, 3046]
+      ],
+  "bitsize": 173,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+      l"
+      ],
+      "ownerhandle": [12, 2]"reacandle": [12, 2],
+      "reactors": [
+            [2, 23],
+        [2, 736], [2, 25668],
+        [2, 688],
+    [2, 601],
+        [2, 2783],
+[2, 94], [2, 2790]
+      ]
+    },
+    {
+bject": ARY"
+   le": [0, 22],
+  e": 295,: 232ine",
+      "pattern_len": 0.000000,
+      "alignment": 65,
+      "es": 0,
+      "srea": pa": 1,"exdle": [5, 0],
+      "styles": [
+
+      ]
+    },
+    {
+  ect": "DY",
+ ,
+ pe":    hes": 0,area": "",
+      "ownerhandle": [4, 5],
+      "endle": [5, 0],
+      "styles": []
+    },
+    {
+ ject": "RY",
+ ,
+ype": 42,
+      "handle": [0, 23],
+      "size": 29,
+   ize": 0,e_flags": 0,
+      "invisible": 0,
+      "linewt": -2,
+      "start": [ 939, 462, 0.000000 ],
+      "end": [ -79, 4621.313010, 0],
+      "thickness": 0.000000,
+      "e": [ 0.000000, 0 1.000000 ]
+    },
+    {entity": "MTEXT",
+      "index": 314,
+  e": 44,
+andle": [0, 1122],
+      "size": 81,
+   ize": 597,
+     andle": [12, 14]"layer": [5, 138],
+     w_exists": 0,
+      "entmode": 0,
+   xteht": 2.916667,
+      "extents_width": 14.166667,
+      "text": ""linespa": 1,
+      "linactor": 1.000000,
+      "unknown_bit": 0,
+      "bg_fill_flag": 0,
+      "style": [5, 17]
+    },
+    {
+ tity": "POINT",
+  "type": 27,
+  dle": [0, 11],
+ ze": 40,bitsize": 280,
+ e": [12, 15],
+  er": [5, 895],
+ ists": 0,
+      "entmode": 0,
+  s": 0,
+ ng_flag": 1,
+      "color": {
+  gb": "000000",
+        "flag": 3},
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotsty": 0,
+      "invisible": 0,
+      "x": -01,
+      "y": 435,
+      "z": 0.000000,
+      "s": 0.000000,
+      "extrusion": [ 0.000000, 0.000000, 1],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "ENT": 1
+  }
+}

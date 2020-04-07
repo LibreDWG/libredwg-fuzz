@@ -1,0 +1,224 @@
+{
+  "HEADER":   {
+    "unknown_0": 41214000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+      "cppname": <AcDefault",
+      "appname": "Objecsses",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CON«­°³",
+        "type": 48,
+  dle": [0, 1],
+  e": 57,
+itsize": 73,
+   erhandle": [4, 0],
+     s": [
+        [2, 80],
+        [2, 381], [2, 440],
+        [2, 0],
+      ],
+    _space": [3, 31]pace": [3, iiiiiiiiii85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+        "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895], [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+        "entity": "POINT",
+      "index": 315,
+      "type": 27,
+      "handle": [0, 1123],
+      "size": 40,
+      "bitsize":	280,
+      "ownerhandle": [12, 15],
+      "layer"0,
+      "invisible": 0,
+      "x": -01,  "entries": [
+         [2, 381], [2, 4 0],
+      ],
+      "model_space": [3, 31]"paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index": 1,
+      "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_}ntries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+[2, 16], [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "hatdle": [0, 5],rhandle": [4, 0],
+      "entries": [
+[2, 22], [2, 0], [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+      "index": 4,
+      "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [4, 0]"entries": [
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [22, 381],
+[2, 440]  [2, 0]],
+      "model_space": [3, 31],
+      "ace": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index": 1,
+      "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+       [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+  +   ndle": [0, 9],
+      "size": 37,
+      "bitsize": 73,
+      "num_entries": 9,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+       [2, 18],
+   
+        [2, 917], [2, 1890],
+        [2, 1891],
+        [2, 2853]  [2, 2862],
+        [2, 3046]
+      ]
+    },
+    {
+      "objndle": [4, 0],
+ [
+[2, 39], [2, 0]
+      ],
+      "morehandles": [
+[5, 39]
+      ]
+    },
+    {
+ s": [
+        "ACAETWORK", "ACADcDary",
+        "A"
+      ],
+   "itemhandles": [
+        [2, 911], [2, 735],
+        [2, 694],
+     ]
+    },
+    {
+      "object
+      "itemhandles": [
+        [2, 599]
+      ]
+    },
+    {
+    "type": 500,
+      "handle": [0, 14],
+      "size": 30,
+       "style": [5, 17]
+    },
+    {
+ xtrusion": [ 0.000000, 0.000000, 1],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREMENT": 1
+  }
+}

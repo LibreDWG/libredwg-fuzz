@@ -1,0 +1,221 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index": 1,
+      "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandlize": 173,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "Normal"
+      ],
+     wnerhandle": [4, 0],
+      "entries": [
+  
+        [2, 440],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index": 1,
+      "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+    },
+    { "object": "BLOCK_CONTROL",
+      "index": 0,
+      "type": 48,
+ tors": [
+        [4, 12]
+      ],
+      "itemhandles": [
+        [2, 599]
+      ]
+    },
+    {
+      "object": "DICTIONARYWDFLT",
+      "dxfname": "FLT",
+      "index": 11,
+      "type": 500,
+      "handle": [0, 14],
+      "size": 30,
+      "bitsize": 173,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "Normal"
+      ],
+      "ownerhandle": [12, 2],
+      "reactors": [
+        [4, 12]
+      ],
+      "itemhandles": [
+        [2, 15]
+      ],
+      "defaultid": [5, 15]
+    },
+    {
+      "object": "LAYER",
+      "index": 13,
+      "type": 51,
+      "handce": [0, 16],
+      "siFe": 31,
+      "bitsize": 155,
+      "name": "0",
+      "xrefref": 1,
+      "xrefindex_pluåŒ": 0,
+      "xrefdep": 0,
+      "flag": 1008,
+      "plotflag": 0,
+      "linewt": -3,
+      "color": {
+        "rgb": "c3000007"
+      }e": [0, 10],
+      "size": 17,
+      "bitsize": 81,
+      "num_entries": 2,
+    es": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+        [2, 0]
+      ],les": [
+        [5, 39]
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index›≈ 9,
+      "type": 42,
+      "handle": [0, 12],
+: 500,
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zom    ,
+  nown_bit": 0,
+  g": 0,
+      "style": [5, 17]
+    },
+    {
+      "entity": "POINT",
+      "index": 315,
+      "type": 27,
+      "handle": [0, 1123],
+      "size": 40,
+      "bitsize": 280,
+      "ownerhandle": [12, 15],
+      "layer": [5, 895],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rgb": "000000",
+        "flag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "x": -276.854801
+    },
+    {
+      "object": "UCS_CONTROL",
+      "index": 5,
+      "type": 62,
+    ner": 0,
+      ,
+      "y": 4701.847035,
+      "z": 0.000000,
+      "thickness": 0.000000,
+      "extrusion": [ 0.000000, 0.000000, 1.000000 ],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREMENT": 1
+  }
+}

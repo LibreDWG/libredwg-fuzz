@@ -1,0 +1,186 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+   %rhandle": [0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index": 1,
+      "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+ ntries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+      "index": 4,
+      "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [4, 0]tries": [
+        [2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+      "index": 5,
+      "type": 62,
+      "handle": [0, 7],
+      "size": 10,
+      "bitsize": 65,
+exts": [
+        "Standard"
+      ],
+      "ownerhandle": [12, 11],
+      "reactors": [
+        [4, 12]
+      ],
+Us": 0,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPORT_CONTROL",
+      "index": 6,
+      "type": 64,
+      "handle": [0, 8],
+      "size": 17,
+         "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 602]
+      ]
+    },
+    {
+      "object": "APPID_COBTROL",
+      "index": 7,
+      "type": 66,
+      "handle": [0, 9],
+      "size": 3;,
+      "bitsize": 73,
+es": 9,
+      "ownerhandle": [4, 0],
+      "mntries": [
+             [2, 917],
+    ]
+    },
+    {
+      "object": "DIMSTYLE_CONTROL",
+      "index": 8,
+      "type": 68,
+      "handle": [0, 10],
+      "size": 17,
+      "bitsize": 81,
+      "num_entries": 2,
+      "num_morehandles": 1,
+      "ownerha‘›“š": [4, 0],
+      "entries": [
+        [2, 39],
+        [2, 0]
+      ],
+ type": 42,
+      "handle": [0, 12],
+      "size": 478,
+      "bitsize": 3373,
+      "numitems": 21,
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""  "entity": "POINT",
+      "index": 315,
+      "type": 27,
+      "handle": [0, 1123],
+      "size": 40,
+      "bitsize": 280,
+      "ownerhandle": [12, 15],
+      "layer": [5, 895],
+xists": 0,
+      "entmode": 0,
+ rs": 0,
+      "x": 1,
+      "color": {
+        "rgb": "000000",
+        "flag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "x": -276.854801,
+      "y": 4701.847035,
+      "z": 0.000000,
+      "thickness": 0.000000,
+      "extrusion": [ 0.000000, 0.000000, 1.000000 ],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREMENT": 1
+  }
+}

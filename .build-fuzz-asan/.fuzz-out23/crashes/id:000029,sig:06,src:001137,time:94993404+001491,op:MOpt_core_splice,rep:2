@@ -1,0 +1,493 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+        "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+        "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+        "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      "bitsize": 73,
+      "näí_entries": 10,
+      "ownerhandle": [t, 0],
+      "entries": [
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+        "type": 62,
+      "handle": [0, 7],
+      "size": 10,
+      "bitsize": 65,
+      "num_entries": 0,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPORT_CONTROL",
+      "index": 6,
+      "type": 64,
+      "handle": [0, 8],
+      "size": 17,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 602]
+      ]
+    },
+    {
+      "object": "APPID_CONTROL",
+      "index": 7,
+      "type": 66,
+      "handle": [0, 9],
+     "ownerhandle": [4, 0],
+      "entries": [
+        [2, 18],
+        [2, 710],
+        [2, 728],
+        [2, 917],
+        [2, 1890],
+        [2, 1891],
+        [2, 2853],
+        [2, 2862],
+        [2, 3046]
+      ]
+    },
+    {
+      "object": "DIMSTYLE_CONTROL",
+      "index": 8,
+      "type": 68,
+      "handle": [0, 10],
+      "size": 17,
+      "bitsize": 81,
+      "num_entries": 2,
+      "num_morehandles": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 39],
+        [2, 0]
+      ],
+      "morehandles": [
+        [5, 39]
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index": 9,
+      "type": 42,
+      "handle": [0, 12],
+      "size": 478,
+      "bitsize": 3373,
+      "numitems": 21,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "ACAD_ASSOCNETWORK",
+        "ACAD_ASSOCPERSSUBENTMANAGER",
+        "ACAD_CICT_INFO",
+        "ACAD_COLOR",
+        "ACAD_DETAILVIEWSTYLE",
+        "ACAD_GROUP",
+        "ACAD_LAYOUT",
+        "ACAD_MATERIAL",
+        "A",
+        "ACAD_MLINESTYLE",
+        "ACAD_PERSUBENTMGR",
+ """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",
+        "AC     "ACAD_PLOTSTYLENAME",
+        "ACAD_SCALELIST",
+        "ACeData"
+      ],
+      "ownerhandle": [4, 0],
+      "itemhandleå": [
+        [2, 911],
+        [2, 735],
+        [2, 694],
+        [2, 107],
+        [2, 690],
+        [2, 13],
+        [2, 26],
+        [2, 106] [2, 666],
+        [2, 641],
+        [2, 601],
+        [2, 2783],
+        [2, 94],
+        [2, 2790]
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index": 10,
+      "type": 42,
+      "handle": [0, 13],
+      "size": 24,
+      "bitsize": 141,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "*A1"
+      ],
+      "ownerhandle": [8, 0],
+      "reactors": [
+        [4, 12]
+      ],
+      "itemhandles": [
+        [2, 599]
+      ]
+    },
+    {
+      "object": "DICTIONARYWDFLT",
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "index": 11,
+      "type": 500,
+      "handle": [0, 14],
+      "size": 30,
+      "bitsize": 173,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "Normal"
+      ],
+      "ownerhandle": [12, 2],
+      "reactors": [
+        [4, 12]
+      ],
+      "itemhandles": [
+        [2, 15]
+      ],
+      "defaultid": [5, 15]
+    },
+    {
+      "object": "LAYER",
+      "index": 13,
+      "type": 51,
+      "handle": [0, 16],
+      "size": 30,
+      "bitsize": 155,
+      "name": "0",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "flag": 1008,
+      "plotflag": 0,
+      "linewt": -3,
+      "color": {
+        "rgb": "c3000007"
+      },
+      "ownerhandle": [4, 2],
+      "xref": [5, 0],
+      "plotstyle": [5, 15],
+      "ltype": [5, 22]
+    },
+    {
+      "object": "STYLE",
+      "index": 14,
+      "type": 53,
+      "handle": [0, 17],
+      "size": 38,
+      "bitsize": 275,
+      "name": "Standard",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "shape_file": 0,
+      "vertical": 0,
+      "fixed_height": 0.000000,
+      "width_facng": 0.000000,
+      "generation": 0,
+      "last_height": 100.000000,
+      "font_name": "txt",
+      "bigfont_name": "",
+      "ownerhandle": [4, 3],
+      "extref": [5, 0]
+    },
+    {
+      "object": "APPID",
+      "index": 15,
+      "type": 67,
+      "handle": [0, 18],
+      "size": 19,
+      "bitsize": 125,
+      "name": "ACAD",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "unknown": 0,
+      "ownerhandle": [4, 9],
+      "null_handle": [5, 0]
+    },
+    {
+      "object": "ÃTYPE",
+      "index": 16,
+      "type": 57,
+      "handle": [0, 20],
+      "size": 280,
+      "bitsize": 2209,
+      "name": "ByBlock",
+      "xrefref": 1,
+   xrefdep": 0,
+      "description": "",
+      "pattern_len": 0.000000,
+      "alignment": 65,
+      "num_dashes": 0,
+      "strings_area": "",
+      "ownerhandle": [4, 5],
+      "extref_handle": [5, 0],
+      "styles": [
+
+      ]
+    },
+    {
+      "object": "LTYPE",
+      "index": 17,
+      "type": 57,
+      "handle": [0, 21],
+      "size": 280,
+      "bitsize": 2209,
+      "name": "ByLayer",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "description": "",
+      "pattern_len": 0.000000,
+      "alignment": 65,
+      "num_dashes": 0,
+      "strings_area": "",
+      "ownerhandle": [4, 5],
+      "extref_handle": [5, 0],
+      "styles": [
+
+      ]
+    },
+    {
+      "object": "LTYPE",
+      "index": 18,
+      "type": 57,
+      "handle": [0, 22],
+      "size": 295,
+      "bitsize": 2329,
+      "name": "Continuous",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "description": "Solid line",
+      "pattern_len": 0.000000,
+      "alignment": 65,
+      "num": [
+
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index": 19,
+      "type": 42,
+      "handle": [0, 23],
+      "size": 29,
+      "bitsize": 181,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "Standard"
+      ],
+      "ownerhandle": [12, 11],
+      "reactors": [
+        [4, 12]
+      ],
+      "itemhandles": [
+        [2, 24]
+      ]
+    },
+    {
+      "object": "BLOCK_HEADER",
+      "index": 23,
+      "type": 49,
+      "handle": [0, 31],
+      "size": 237,
+      "bitsize": 216,
+      "name": "*Model_Space",
+      "xrefref.: 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "anonymous": 0,
+      "hasattrs": 0,
+      "blkisxref": 0,
+      "xrefoverlaid": 0,
+      "loaded_bit": 0,
+      "num_owned": 68,
+      "base_pt": [ 0.000000, 0.000000, 0.000000 ],
+      "xref_pname": "",
+      "num_inserts": 0,
+      "description": "",
+      "preview_size": 0,
+      "preview": "",
+      "ownerhandle": [4, 1],
+      "null_handle": [5, 0],
+      "block_entity": [3, 32],
+      "entities": [
+        [3, 139],
+        [3, 140],
+        [3, 141],
+      ],
+      "endblk_entity": [3, 33],
+      "layout": [5, 34]
+    },
+    {
+      "entity": "BLOCK",
+      "index": 24,
+      "type": 4,
+      "handle": [0, 32],
+      "size": 27,
+      "bitsize": 198,
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 0,
+      "xdic_misåing_flag": 1,
+      "color": {
+        "index": 256,
+        "rgb": "000000",
+        "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "name": "*Model_Space"
+    },
+    {
+      "entity": "ENDBLK",
+      "index": 25,
+      "type": 5,
+      "handle": [0, 33],
+      "size": 13,
+      "bitsize": 84,
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "unknown_bit": 0,
+      "bg_fill_flag": 0,
+      "style": [5, 17]
+    },
+    {
+      "entity": "POINT",
+      "index": 315,
+      "type": 27,
+      "handle": [0, 1123],
+      "size": 40,
+      "bitsize": 280,
+      "ownerhandle": [12, 15],
+      "layer": [5, 895],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rgb": "000000",
+        "flag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "x": -276.854801,
+      "y": 4701.847035,
+      "z": 0.000000,
+      "thickness": 0.000000,
+      "extrusion": [ 0.000000, 0.000000, 1.000000 ],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREMENT": 1
+  }
+}

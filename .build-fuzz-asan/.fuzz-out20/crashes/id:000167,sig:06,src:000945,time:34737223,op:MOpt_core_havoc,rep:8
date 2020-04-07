@@ -1,0 +1,236 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_COnTROL",
+        "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+        "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      ,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+     andle": [4, 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_¼°NTROL",
+        "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      s": 10,
+      "ownerhandle": [4,[2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+        "type": 62,
+      "handle": [0, 7],
+      "size": 10,
+      "bitsize": 65,
+   "entity": "LWPOLYLINE",
+      "index": 48,
+      "type": 77,
+      "handle": [0, 142],
+      "size": 117,
+      "bitsize": 892,
+      "reactors": [
+        [4, 591]
+      ],
+      "layer": [5, 138],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 1,
+      "xdic_missintity": "RAY",
+      "index": 77,
+      "type": 40,
+      "handle": [0, 425],
+      "siie": 47,
+      "bitsi  "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "flag": 512,
+      "num_points": 6,
+      "points": [
+        [ 1403.271282, 1189.009380 ],
+        [ 1394.543263, 1405.563510 ],
+       ],
+      "bulges": [
+      ]
+    },
+    {
+      "entity": "RAY",
+      "index": 77,
+      "type": 40,
+      "handle": [0, 425],
+      "siie": 47,
+      "bitsize": 360,
+      "layer": [5, 138],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "index": 256,
+ "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "point": ector": [ 0.820841, 0.571157, 0.000000 ]
+    },
+    {
+      "entity": "DIMENSIONŒ–…š": 748,
+      "layer": [5, 138],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "index": 256,
+        "rgb": "000000",
+        "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "extrusion": [ 0.000000, 0.000000, 1.000000 ],
+      "text_midpt": [ 4818.682405, 4190.651714 ],
+   "flag1": 11,
+      "user_text": "",
+      "text_rotation": 0.000000,
+      "horiz_dir": 0.000000,
+      "ins_scale": [ 1.000000, 1.000000, 1.000000 ],
+      "ins_rotation": 0.000000,
+      "attachment": 5,
+      "lspace_style": 1,
+      "lspace_factor": 1.000000,
+      "act_measurement": 4630.519359,
+      "clone_ins_pt": [ 0.000000, 0.000000 ],
+      "feature_location_pt": [ 4630.519359, 4515.678950, 0.000000 ],
+      "leader_endpt": [ 4820.765738, 4198.776714, 0.000000 ],
+      "flag2": 1,
+      "dimstyle": [5, 39],
+      "block": [5, 1073]
+    },
+    {
+      "object": "ER",
+      "index": 281,
+         "hasattrs": 0,f": 0,
+            "base_pt": [ 0.000000, 0.0],
+e": "",
+      "num_inserts": 0,
+on": "",
+    _width": 14.166667,
+      "text": "4701,85",
+   ill_flag": 0,
+      "style": [5, 17]
+    },
+    {
+      "entity": "POINT",
+      "index": 315,
+      "type": 27,
+      "handle": [0, 1123],
+      "size": 40,
+      "bitsize": 280,
+      "ownerhandle": [12, 15],
+      "layer": [5, 895],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rgb": "000000",
+        "flag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "x": -276.854801,
+      "y": 4701.847035,
+      "z": 0.000000,
+      "thickness": 0.000000,
+      "extrusion": [ 0.000000, 0.000000, 1.000000 ],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREMENT": 1
+  }
+}

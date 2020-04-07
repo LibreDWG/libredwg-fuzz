@@ -1,0 +1,43 @@
+{
+  "HEADER"{
+    "u": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+ e": "ACD",
+  "cppname": "AcDlt",   "ˇˇpname": "O",
+ ght": 10,
+  ame": "",
+  "own": [4, 3],
+  "ex": [5, 0]
+    }, {
+  "ob": "D",
+  "i": 15,
+  "tys1": 0,
+  "xep": 0,
+  "uwn": 0,
+  "ol^": [4, 9],   "dle"e": [5, 0]
+    }, {
+  "ob": "E",
+  "i": 16 "proxyflag": 0,
+  "num_instances": 1,
+  "is†Öêíbie": 0,
+  id": 499 },
+  ],
+  "OBJECTS": [
+{
+  "object": "BLOCK_CONTROL",
+  "inde_height": 0000,
+  le": [5, 17] },
+{
+  "entity": "PO∂±´›,
+  "index": 315,
+  "typeextrusion": [  ],
+  "x_ang": 0},
+  ],
+  "Template"  {
+"MEASUREMENT": 1
+  }
+}

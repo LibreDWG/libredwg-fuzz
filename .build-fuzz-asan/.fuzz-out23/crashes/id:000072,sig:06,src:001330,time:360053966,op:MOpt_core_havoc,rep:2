@@ -1,0 +1,133 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "d": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]"size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space.: [3, 31]"papeo_space": [3, 85]
+    }  {
+  "object": "³¾¦OL",_": 1,
+ pe": 50,le": [0, 2],size": 26,
+ e": 73,
+es": 5,
+le": [4, 0],ies": [
+ [2, 895],
+    [2, 1885]   ] },
+{
+  "object": "STYLE_CONTROL",
+  "index": 2,   "type": 52,
+  "handle": [0, 3],
+  "size": 13,   "bitsize": 73,
+  "num_entries": 1,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 17]
+  ]
+    }, {
+  "object": "LTYPE_CONTROL",
+  "index": 3,
+  "type": 56,
+  "handle": [0, 5],
+  "size": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "ownerhandle": [4, 0],
+  "Ges": [
+    [2, 22],
+[2, 0],
+[2, 0]
+  ],
+  "byblock": [3, 20]"bylayer": [3, 21]
+    }  {
+  "object": "VIEW_CONTROL",
+  "index": 4,
+  "type": 60,
+  "handle": [0, 6],
+  "size": 21,
+  "bitsize": 73,
+  "num_entries": 10,
+  "ownerhandle": [4, 0],   "išs": [
+[2, 0],
+[2, 0]
+  ]
+    }  {
+  "obj:::::::::::ect": "UCS_CONTROL",
+  "index": 5,   "type": 62,
+  "handle": [0, 7],
+  "size": 10,   "bitsize": 65,
+  "num_entries": 0,
+  "ownerhandle": [4, 0],
+  "entries": [
+
+  ]
+    }  {
+  "object": "³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³VPORT_CONTROL",
+ndex": 6,
+  e": 64,
+e": [0, 8],
+ize": 17,
+  size": 73,
+ s": 1,
+ e": [4, 0],
+es": [
+    [2, 602]
+  ]
+},
+    {   "object": "APPID_CONTROL",
+  "index": 7,
+  "type": 66,
+  "handle": [0, 9]"size": 37,
+  "bitsize": 73,   "num_entries": 9,   "ownerhandle": [4, 0]"entries": [ [2, 18]  [2, 710],
+[2, 728]  [2, 917],
+[2, 1890],
+    [2, 1891]  [2, 2853], [2,2],
+[2, 3046]
+  ]
+    }, {
+  "object": "DIMSTYLE_CONTROL",
+  "index": 8,   "type": 68,
+  "handle": [0, 10],
+  "size": 17,
+  "bitsize": 81,
+  "num_entries": 2,
+ s": 1,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 39],
+[2, 0]
+  ],
+  "morehandles": [
+    [5, 39]
+  ]
+    }  {
+  "object": "DICTIONARY",
+  "index": 9,
+  "type": 42,
+  "handle": [0, 12],
+  "size": 470000
+},
+  ],
+  "Template"  {
+"MEANT": 1
+  }
+}

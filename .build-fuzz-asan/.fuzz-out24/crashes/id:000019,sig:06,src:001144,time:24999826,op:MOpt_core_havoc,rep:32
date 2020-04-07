@@ -1,0 +1,49 @@
+{
+  "HEADER":   {
+    "unknown_0": 41214000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+      "cppname": "AcDefault",
+      "appna………………………………………………………………………………™……………………………………………………………………me": "Objecsses",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+   d": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+  
+      "bitsize": 280,
+      "ownerhandle": [12, 17],
+      "layer": [5, 895],
+   ts": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rLb": "000000",
+   ag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+_flags": 0,
+    "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "name": "*Model_Space"
+    },
+    {
+      "entity": "entity": "P": 0.000000
+    },
+  ],
+  "Template":     {
+    
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "HEADER"{
+    "unknown_0"""""""""""""""""".000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICTIONARYWDFLT: "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "isszombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      )index": 0,
+      "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index": 1,
+      "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 16],
+        [2, 137],
+        [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4, 0],
+      "Tntries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+      "bylayer": [3, 21]
+    },
+    {
+      "object": "VIEW_CONTROL",
+      "index": 4,
+      "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhndle": [0, 3],
+  "size": 13,   "bitsize": 73,
+  "num_entries": 1,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 17]
+  ]
+    }, {
+  "object": "LTYPE_CONTROL",
+  "index": 3,
+  "type": 56,
+  "handle": [0, 5],
+  "size": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "hard_owner": 0,
+  ts": [
+ al"
+  ],   "ownerhandle": [12, 2],
+  "reac4, 12]
+  ],
+es": [
+    [2, 15]
+  ],
+ltid": [5, 15]
+    }  {
+  "object": "LAYER",   "index": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5],
+      "sTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT««««TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTclone_ins_pt": [ 00 ],
+      "feature_location_pt": [ -276.854801, 4701.847035, 0.000000 ],
+      "leader_endpt": [ -780.932939, 00000 ],
+      "flag2": 0,
+      "dimstyle": [5, 39],
+      "block": [5, 1108]
+    },
+    {
+      "object": "BLOCK_HEADER",
+      "index": 307,
+      "type": 49,
+      "handle": [0, 1108],
+      "size": 49,
+      "bitsize": 144,
+      "name": "*D",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+     @"xrefdep": 0,
+      "anonymous.000000,
+      "act_measurement": 4701.847035,
+      "clone_ins_pt": [ 0.000000, 0.000000 ],
+      "feature_location_pt": [ -276.854801, 4701.847035, 0.000000 ],
+      "leader_endpt": [ -780.932939, 4621.313010, 0.000000 ],
+      "flag2": 0,
+      "dimstyle": [5, 39],
+      "block": [5, 1108]
+    },
+    {
+      "object": "BLOCK_HEADER",
+      "index": 307,
+      "type": 49,
+      "handle": [0, 1108],
+      "size": 49,
+      "bitsize": 144,
+      "name": "*D",
+      "xrefref"B 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "anonymous":&1,
+      "hasattrs": 0,
+      "blkisxref": 0,
+      "xrefoverlaid": 0,
+      "loaded_bit": 0,
+     y": 4701.847035,
+      "z": 0.000000,
+      "thTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTickness": 0.000000,
+      "extrusion": [ 0.000000, 0.000000, 1.000000 ],
+      "x_ang": 0.000000
+    },
+  ],
+  "Template":     {
+    "MEASUREMENT": 1
+  }
+}

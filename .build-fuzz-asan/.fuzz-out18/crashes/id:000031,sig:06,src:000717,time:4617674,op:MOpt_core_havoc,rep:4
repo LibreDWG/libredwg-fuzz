@@ -1,0 +1,117 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handle": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31],
+  "paper_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],   "size": 26,
+  "bitsize": 73,
+  "num_entries": 5,
+  "ownerhandle": [4, 0],   "entries": [
+[2, 16], [2, 137],
+    [2, 138], [2, 895],
+    [2, 1885]   ] },
+{
+  "object": "STYLE_CONTROL",
+  "index": 2,   "type": 52,
+  "—andlelag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handle": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31],
+  "paper_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],   "size": 26,
+  "bUtsize": 73,
+  "num_entries": 5,
+  "ownerhandle": [4, 0],   "entries": [
+[2, 16], [2, 137],
+    [2, 138], [2, 895],
+    [2, 1885]   ] },
+{
+  "object": "STYLE_CONTROL",
+  "index": 2,   "type": 52,
+  "—andle": [0, 3],
+  "size": 13,   "bitsize": 73,
+  "num_entries": 1,
+  "ownerhandle": [4, 0"ACA"
+  ],
+  "ownerhandle": [4, 0],
+  "itemhandles": [
+    [2, 690], [2, 13]  [2, 26 686],
+    [2, 23],
+[2, 736]  [2, 25],
+    [2, 14],
+[2, 668]  [2, 688],
+[2, 666]  [2, 641],
+[2, 601]  [2, 2783], [2, 94]  [2, 2790]
+  ]
+},
+    {   "object": "DICTIONARY",
+  "index": 10,
+    "text_height":0,
+  "attachment": 5,
+  "drawing_dir": 1,
+  "ext_he–˜—‹": 2.67,
+  "exten": 1,
+  "text": "470",
+  "listyle": 1,
+  "linespor":0,
+  "bgl_flag": 0,
+  "s": [5, 17]
+    }  {
+  "entity": "POINT",   "index": 315,   "type": 27,
+  "handle": [0, 1123],
+  "size": 40,
+  "bitsize": 280,
+  "ownerhandle": [12, 15],   "layer": [5, 895],
+  "preview_exists": 0,   "entmode": 0,   "num_reactors": 0,
+  "xdic_missing_flag": 1,
+  "color": { "rgb": "000000",
+    "flag": 32   },
+  "ltype_scale": 1000,   "ltype_flags": 0,   "plotstyle_flags": 0,   "invisible": 5,
+  "z": 0.00,
+  "thickness": 0000,   "extrusion": [ 0.00, 00006 1.00 ],
+  "x_ang":0
+    },
+  ]"Template": {
+    "MNT": 1
+  }
+}

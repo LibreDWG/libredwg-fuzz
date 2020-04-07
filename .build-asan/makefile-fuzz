@@ -1,0 +1,111 @@
+# -*- makefile -*-
+INDXF=  log.indxf-crashes \
+	log.indxf-crashes1 \
+	log.indxf-crashes2 \
+	log.indxf-crashes3 \
+	log.indxf-crashes4 \
+	log.indxf-crashes5 \
+	log.indxf-crashes6 \
+	log.indxf-gh186 \
+	log.indxf-gh189 \
+	log.indxf-gh190 \
+	log.indxf-crashes25
+RW=	log.rw-crashes7 \
+	log.rw-crashes8 \
+	log.rw-crashes13 \
+	log.rw-crashes14 \
+	log.rw-crashes15 \
+	log.rw-crashes16 \
+	log.rw-gh178
+OUTDXF= log.outdxf-gh176 \
+	log.dxf-gh183
+SVG=    log.svg2-gh179 \
+	log.SVG-gh182
+BMP=	log.bmp-gh188
+INJSON= log.injson-crashes10 \
+        log.injson-crashes18 \
+        log.injson-crashes19 \
+        log.injson-crashes20 \
+        log.injson-crashes21 \
+        log.injson-crashes22 \
+        log.injson-crashes23 \
+        log.injson-crashes24
+OUTJSON=
+
+all:    $(INDXF) $(INJSON) $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON)
+injson: $(INJSON)
+indxf:  $(INDXF)
+rw:     $(RW)
+outdxf: $(OUTDXF)
+svg:    $(SVG)
+bmp:    $(BMP)
+decode: $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON)
+encode: $(RW) $(INDXF) $(INJSON)
+dxf:    $(OUTDXF) $(INDXF)
+json:   $(OUTJSON) $(INJSON)
+
+log.outdxf-gh176: gh176.sh programs/dwg2dxf 
+	./gh176.sh
+log.rw-gh178: gh178.sh programs/dwgrewrite
+	./gh178.sh
+log.svg2-gh179: gh179.sh examples/dwg2svg2
+	./gh179.sh
+log.SVG-gh182: gh182.sh programs/dwg2SVG
+	./gh182.sh
+log.dxf-gh183: gh183.sh programs/dwg2dxf
+	./gh183.sh
+log.indxf-gh186: gh186.sh programs/dxf2dwg
+	./gh186.sh
+log.bmp-gh188: gh188.sh programs/dwgbmp
+	./gh188.sh
+
+log.indxf-gh189: gh189.sh programs/dxf2dwg
+	./gh189.sh
+log.indxf-gh190: gh190.sh programs/dxf2dwg
+	./gh190.sh
+log.indxf-crashes: ./crashes.sh programs/dxf2dwg
+	./crashes.sh
+log.indxf-crashes1: ./crashes1.sh programs/dxf2dwg
+	./crashes1.sh
+log.indxf-crashes2: ./crashes2.sh programs/dxf2dwg
+	./crashes2.sh
+log.indxf-crashes3: ./crashes3.sh programs/dxf2dwg
+	./crashes3.sh
+log.indxf-crashes4: ./crashes4.sh programs/dxf2dwg
+	./crashes4.sh
+log.indxf-crashes5: ./crashes5.sh programs/dxf2dwg
+	./crashes5.sh
+log.indxf-crashes6: ./crashes5.sh programs/dxf2dwg
+	./crashes6.sh
+log.indxf-crashes25: ./crashes25.sh programs/dwgwrite
+	./crashes25.sh
+
+log.injson-crashes10: ./crashes10.sh programs/dwgwrite
+	./crashes10.sh
+log.injson-crashes18: ./crashes18.sh programs/dwgwrite
+	./crashes18.sh
+log.injson-crashes19: ./crashes19.sh programs/dwgwrite
+	./crashes19.sh
+log.injson-crashes20: ./crashes20.sh programs/dwgwrite
+	./crashes20.sh
+log.injson-crashes21: ./crashes21.sh programs/dwgwrite
+	./crashes21.sh
+log.injson-crashes22: ./crashes22.sh programs/dwgwrite
+	./crashes22.sh
+log.injson-crashes23: ./crashes23.sh programs/dwgwrite
+	./crashes23.sh
+log.injson-crashes24: ./crashes24.sh programs/dwgwrite
+	./crashes24.sh
+
+log.rw-crashes13: ./crashes13.sh programs/dwgrewrite
+	./crashes13.sh
+log.rw-crashes14: ./crashes14.sh programs/dwgrewrite
+	./crashes14.sh
+log.rw-crashes15: ./crashes15.sh programs/dwgrewrite
+	./crashes15.sh
+log.rw-crashes16: ./crashes16.sh programs/dwgrewrite
+	./crashes16.sh
+log.rw-crashes7: ./crashes7.sh programs/dwgrewrite
+	./crashes7.sh
+log.rw-crashes8: ./crashes8.sh programs/dwgrewrite
+	./crashes8.sh

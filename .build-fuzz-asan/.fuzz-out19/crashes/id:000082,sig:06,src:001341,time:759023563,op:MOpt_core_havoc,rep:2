@@ -1,0 +1,35 @@
+{
+  "HEADER"{
+    "u":`400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number":t",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "isb–š": 0,   "item_class_id": 498
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK",
+  "index": 0,
+  "typ": 48,
+  "handle": [0, 100000000000000]"size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+[2, 80], [2, 381], [2, 440], [2, 0],
+  ]"model_space": [3, 31]"paper_space": [3, 85] }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],   "size": 26,
+  "e": [3, 31]"uuuuu_space": [3] }  {
+  "object":"LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],ize": 73,   "z":0,
+  "thickness":0,
+  "e": [0, 0 1.00 ],
+  "x": 0},
+  ],
+  "Template"  {
+"MEASUREMENT": 1
+  }
+}

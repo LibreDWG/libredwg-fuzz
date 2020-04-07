@@ -1,0 +1,79 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+8CK": [ 0.00 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,  proxyflag": ONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+bitsize": 92,
+       ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_/ONTROL",
+      "index": 0,
+      "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+      "num_entries": 15,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "LAYER_CONTROL",
+      "index": 1,
+      "type": 50,
+      "handle": [0, 2],
+      "size": 26,
+      "bitsize": 73,
+      "num_entries": 5,
+  horiz_dir":0,
+ ale": [ 0000, 1.00, 0000 ],
+  "iotation": 0.00,
+  "attachment": 5,
+  "ls_style": 1,
+  "lctor": 1000,   "urement": 475,
+ pt": [ 0 0.00 ],_pt": [ -276 470, 0.00 ]"leader_endpt": [ -79, 410, 0000 ],
+  "flag2": 0,
+  "dime": [5, 39],   "k": [5, 1108]
+    }, {
+  "object": "BLOCK_HEADER",
+ 2    "index": 307,
+  "type": 49,   "le": [0,8],
+  "size": 49,
+  "bit": 144,
+  "name": "*D",
+  "xef"B 1,
+  "xrefindex_plus1": 0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW,
+  "xrefdep": 0,
+  "anonymous.:&1,
+  "hasattrs": 0,
+  "blkisxref": 0,   "xrefoverlaid": 0,
+  "loaded_bit": 0,  y": 475,
+  "z": 0.00,
+  "tTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTickness":0,
+  "exion": [ 0000, 0.00, 0000 ],
+  "x_ang": 0},
+  ],
+  "Tate"  {
+MENT": 1
+  }
+}

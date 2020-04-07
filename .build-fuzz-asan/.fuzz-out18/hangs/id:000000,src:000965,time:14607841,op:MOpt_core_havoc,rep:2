@@ -1,0 +1,93 @@
+{
+  "HEADER"{
+    "unknown 0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",ame": "O",
+  "proxyflag":$0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handl¥": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31],
+  "paper_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,,
+  "ownerhandle": [4, 0],
+  "entries": [
+
+[2, 0],
+[2, 0]
+  ],
+  "ock": [3],
+  "byr": [3, 21]
+}  {
+  "object": "VIEW_CONTROL",
+  "index": 4,
+  "tzpe": 60,
+  "handle": [0, 6],
+  "size": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handl¥": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31],
+  "paper_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,,
+  "ownerhandle": [4, 0],
+  "entries": [
+
+[2, 0],
+[2, 0]
+  ],
+  "ock": [3],
+  "byr": [3, 21]
+}  {
+  "object": "VIEW_CONTROL",
+  "index": 4,
+  "tzpe": 60,
+  "handle": [0, 6],
+  "size": 21,
+  "bitsize": 73,
+  "num_entries": 10,
+  "ownerhandle": [4, 0],  "object": "UCS",
+  "index": 5,   "type": 62,
+  "handle": [0, 7],
+  "size": 10,   "bitsize": 21,
+  "bitsize": 73,
+  "num_entries": 10,
+  "ownerhandle": [4, 0],  "object": "UCS",
+  "index": 5,   "type": 62,
+  "handle": [0, 7],
+  "size": 10,   "bitsize":  [ 0 , 1],
+  "x_ang":0
+    }]"Template": {
+    "MNT": 1
+  }
+}

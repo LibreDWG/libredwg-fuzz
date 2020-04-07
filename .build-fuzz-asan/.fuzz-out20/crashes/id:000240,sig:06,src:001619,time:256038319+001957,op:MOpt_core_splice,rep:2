@@ -1,0 +1,199 @@
+{
+  "HEADER":   {
+    "unknown_0": 412148564080.000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "cppname": "AcDbDictionaryWithDefault",
+      "appname": "ObjectDBX Classes",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+      "item_class_id": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+      "type": 48,
+      "handle": [0, 1],
+      "size": 57,
+      "bitsize": 73,
+   %rhandle": [4, 0],
+      "entries": [
+        [2, 80],
+        [2, 381],
+        [2, 440],
+        [2, 0],
+      ],
+      "model_space": [3, 31],
+      "paper_space": [3, 85]
+    },
+    {
+      "object": "Le": "Standard",
+  ex_plus1": 0,
+      "xrefdep": 0,
+      "shape_file": 0,
+   73,
+es": 5,
+      "ownerhandle": [4,   [2, 138],
+        [2, 895],
+        [2, 1885]
+      ]
+    },
+    {
+      "object": "STYLE_CONTROL",
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "index": 2,
+      "type": 52,
+      "handle": [0, 3],
+      "size": 13,
+      "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entri{s": [
+        [2, 17]
+      ]
+    },
+    {
+      "object": "LTYPE_CONTROL",
+      "index": 3,
+      "type": 56,
+      "handle": [0, 5bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbXbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb],
+      "size": 19,
+      "bitsize": 73,
+      "num_entries": 3,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 22],
+        [2, 0],
+        [2, 0]
+      ],
+      "byblock": [3, 20],
+ 
+      "object": "VIEW_CONTROL",
+      "index": 4,
+      "type": 60,
+      "handle": [0, 6]"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""#¬""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" 64,handle": [0, 8],size": 17,
+      "bitsize": 73,
+es": 1,
+      "ole": [4, 0],
+      "entries": [
+[2, 602]
+      ]
+    },
+    {
+  ect": "ATROL",
+ dex": 7,type": 66,
+ ndle": [0, 9],
+ ze": 37,erhandle": [4, 0],
+ tries": [
+     [2, 917], [2,853]  [2, 2862], ],
+ze": 173,
+      "numitems": 1,
+      "cloning": 1,
+  tttttttttttttttttttttttttttttttttttttttttttt    "ha": 0,
+      "texts": [
+     al"
+      ],
+      "dle": [12, 2],
+      "reacandle": [12, 2],
+      "reactors": [
+    [2, 23],
+   :  [2, 2783], [2, 94]  [2, 27H0]
+      ]
+    },
+    {object":NARY",
+ dex": 10,
+  e": 42,
+    e": [0, 13],size": 2
+   tems": 1,
+  ning": 1,
+      "hard_êàëör": 0,
+   s": [
+  A1"
+      ],
+      "ownerhandle": [8, 0]"reactors": [
+        [4, 12]
+     """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ],
+      "les": [
+[2, 599]
+      ]
+    },
+    {
+    t": "DICDFLT",
+ fname":    },
+    {
+    t": "LAYER",
+   x": 13,
+ype": 51: [0, 16],
+ ze":   "tyms": 1,
+loning": 1,
+      "hard_owner": 0,texts": [
+      l"
+      ],
+      "own": [12, 2]"reactors": [
+[4, 12]
+      ],
+      "les": [
+[2, 15]
+      ],d": [5, 15]
+    },
+    {
+ ject": "LA¶∫R",
+ndex": 13,
+ pe":le": [0, 16],
+  e": 30,
+itsize":    "name": "0","color": {
+"rgb": ""
+      }"ole": [4, 2],
+      "xref": [5, 0],e": [5, 15]"ltype": [5, 22]
+    },
+    {object": "STYLE",
+ "type": 53,
+ ndle": [0, 17],
+ize": 38": 275,
+ame": ef": 1,
+    "own": [4, 0],
+      "entries": [
+[2], [2, 2853],
+[2, 2862], [2, 3046]
+      ]    "bitsize": 173,
+      "numitems": 1,
+      "cloning": 1,
+      "ha": 0,
+      "texts": [
+   rmal],
+      "dle": [12, 2],e": [12, 2],
+      "reactors": [
+    [2, 23]  [2, 736],
+[2, 25668],
+[2, 688]      [2, 601]"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",
+[2, 2783], [2, 94]  [2, 2790]
+    ! ]
+    },
+    {dle":  []
+    },
+    {: [
+
+      ]
+    },
+    {
+n": [ 0000 ]
+    },
+    {
+    le": [5, 17]
+    },
+    {
+: [ 0.00 ],
+    },
+  ]    {
+   1
+  }
+}

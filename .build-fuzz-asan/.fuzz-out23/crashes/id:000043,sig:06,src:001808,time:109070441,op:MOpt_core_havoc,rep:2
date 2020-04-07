@@ -1,0 +1,114 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appnamm_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]"size": 57,
+  "t": "FLT",
+  "dxfname": "FLT",
+     "type": P00,
+  "handle": [0, 14],   "size": 30,
+  "bitsize": 173,   "numitems": 1,
+  "clo": 1,
+  "hard_owner": 0,s": [
+  l"
+  ],
+dle": [12, 2],
+ le": [5, 15]"ltype": [5, 22] },
+{
+  "object": "STYLE",
+ "type": 53,
+  "handle": [0, 17],   "size": 38,
+  "bitsize": 275,   "name": "",
+  "xrefref": 1,
+  "xrefindex_plus1": 0,
+  "xrefdep": 0,
+  "shape_file": 0,
+  "vertical": 0,
+ or":0,
+  "oblique_ang": 0000,
+  "generation": 0,   "last_height": 00,
+  "font_name": "txt",
+  "bigfont_name": "",
+  "ownerhandle": [4, 3],
+  "extref": [5, 0]
+    }, {
+  "object": "APPID",
+ "type": 67,   "handle": [0, 18]"size": 19,
+  "bitsize": 125,
+  "name": "ACAD",
+  "xrefref": 1,
+  "xrefindex_plus1": 0,
+  "xrefdep": 0,
+  "unknown": 0,
+  "ownerhandle": [4, 9],"handle": [0, 20],
+  "size": 280,
+  "bitsize": 2209,   "name": "ock",
+  "xrefref": 1,
+  "xrefindex_plus1": 0,
+  "xòet_height": 00,
+ ame": "txt",
+  "bitsize": 173,
+ mize": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "hard_owner": 0,
+  ts": [
+ al"
+  ]"ownerhandle": [12, 2],
+  "reactors": [
+[4, 12]
+ (],R   "index": 3,
+  "type": 56,
+  "handle": [0, 5]"TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTs": [ [2, 15]
+  ]id": [5, 15] }  {
+  "object": "LAYER",   "index": [
+[2, 17]
+  ]
+},
+    {   "object": "LTYPE_CONTROL",
+  "index": 3,
+  "type": 56,
+  "handle": [0, 5]"sTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTÿÿTTTTYTTTTTTTTTTTTTTTTTTTTTTTTTTTTotation": 0000,
+  "horiz_dir":0,
+ ale": [ 1000 ],
+  "iotation": 0.00,
+  "attachment": 5,
+  "ls_style": 1,
+  "le_factor": 1000,   "measurement":7035,
+  "clot": [ 0. ],   "_pt": [ 0000 ],
+  "f": 0,
+  "": [5, 34],   "k": [5, 1108]
+    }, {
+  "object": "BLOCK_HEADER",
+  "type": 49,   "handlšÝ:  "s: 49,
+  "bit": 144,
+  "name": "*D",
+  "xef"B 1,
+  "xndex¯plus1": 0,
+  "xrefdep.: 0,
+  "anonymous":&1,
+  "hasattrs": 0,
+  "blkisxref": 0,   "xrefoverlaid": 0,
+  "loaded_bit": 0,  y": 470,
+  "z": 0.00,
+  "thTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTickness":0,
+  "exion": [ 0],
+  "x_ang": 0},
+  ],
+  "Tate"  {
+"ENT": 1
+  }
+}

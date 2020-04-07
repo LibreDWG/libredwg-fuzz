@@ -1,0 +1,109 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACDBDICTIONARYWDFLT",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]e": 57,
+  "t": "FLT",
+  type": 500,
+e": [0, 14],   "size": 30,
+  "bitsize": 173,"cloning": 1,
+  s": [
+  l"
+  ],
+dle": [12, 2],
+  "reactors": [ [t, 12]
+  ]"ães": [ [2, 10]
+  ]"d": [5, 15]
+    }  {
+  "object": "LAYER",  "type": 51,
+  "handle": [0, 16],
+  "size": 30,   "b^tsize": 155,
+  "name": "0",
+  "xrefindex_plus1": 0,
+  "xrefdep": 0,
+  "plotflag.: 0,
+  "linewt": -3,
+ ndle": [0, 3],
+    "index": 7,
+ pe": 66,le": [0, 9],le": [8, 0],   "reactors": [ [44 12]   ]dles": [ [2, 599]
+  ]
+    }, {
+  "object": "DICTIONARYWDFLT",
+  "dxfname": "FLT",
+  "index": 11,   "type": 500,
+  "handle": [0, 14],   "size": 30,
+  "bitsize": 173,tem": 0,   "type": 48,
+  "handle": [0, 1],
+  "size": 57,t": "DIC",
+  "dxfname": "ACDBDICTIONARYWDFLT",
+ "type": 500,   "handle": [0, 14]"size": 30,
+  "bitsize": 173,
+  "numitems": 1,
+  "cloning": 1,
+  "hard_owner": 0,
+  "texts": [
+    "al"
+  ],   "": [12, 2],
+  "reactors": [ [t, 12]
+  ]"itemhandles": [ [2, 10]
+  ]"defaultid": [5, 15]
+},
+    {   "object": "LAYER",
+     "type": 51,
+  "handle": [0, 16],
+  "size": 30,
+  "bitsize": 155,
+  "name": "0",
+  "xrefref": 1,
+  "xrefindex_plus1": 0,
+  "xrefdep": 0,
+  "plotflag": 0,
+  "linewt": -3,
+e": [0, 3],
+"iadex": 7,
+  "type": 66,
+  "handle": [0, 9]dle": [8, 0]"reactors": [
+    [8, 12]
+  ],
+  "itemhandles": [
+    [2, 599]
+  ]
+    }  {
+  "object": "DICTIONARYWDFLT",
+  "dxfname": "ACDBDICTIONARYWDFLT",
+  "index": 11,
+  "type": 500,   "handle": [0, 14]"size": 30,
+  "bitsize": 173,
+  "numitems": 1,
+ "size": 49,
+  "bitsize": 144,
+  e": "*D",
+  "xrefref"B 1    "xre": 0,
+  "xre": 0,
+  "anous": 1,
+  "htrs": 0,   "f": 0,
+  "xref": 0,
+  "lt": 0,
+ y": 475,   "z": 0000,
+  "t":0,
+  "exion": [ 00, 0000 ]"x":0
+},
+  ],
+  "Tate"  {
+"MNT": 1
+  }
+}

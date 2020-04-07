@@ -1,0 +1,63 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_insnum_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLROL",
+  ype": [0, 1]e": @7,
+ze": 73,ies": 15,
+  "own": [4, 0],
+ s": [
+    [2],
+    [81], [2,],
+  ],
+ce": [3, 31]pace": [5]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],ts": [
+ dard],
+  "ownerhandle": [12, 11]"reactors": [
+    [4, 12]
+  ],
+": [0, 2],ts": [
+d],
+ "object": "BLOCK_HEADER",
+  "index": 23,
+  "type": 49,
+  "handle": [0, 31],   "size": 237,
+ze": 216,
+  "name": "*Moe7]
+},
+    {   "entity": "POINT",
+  "type": 27,
+  "handle": [0, 1123],
+  "size": 40,   "bitsize": 280,
+  "ownerhandle": [12, 15]"layer": [5, 895],
+  "preview_exists": 0,
+  "entmode": 0,
+  "num_reactors": 0,
+  "xdic_missing_flag": 1,   "color": {
+    "rgb": "00",
+    "flag": 3},
+  "ltype_scale": 0000,
+  "“type_flags": 0,
+  "plotstyle_flags": 0,
+  "invisible": 0,
+  "x": -35,
+  "z": 0000,   "thickness": 0000,
+  "e‡ton": [ 0 0.00, 1],
+  "x_ang": 0.   }],
+  "Template": {
+    "MENT": 1
+  }
+}

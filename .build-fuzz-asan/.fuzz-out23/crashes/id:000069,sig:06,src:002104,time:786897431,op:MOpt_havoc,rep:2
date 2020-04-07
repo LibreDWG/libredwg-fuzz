@@ -1,0 +1,128 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 5 6,
+  "type": 64,
+  "handle00,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 498
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]"size": G7,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space.: [3, 31]pace": [5]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "type": 50,   "handle": [0, 2],  }, {
+  "object": "DIMSTYLE_CONTROL",
+  "index": 8,   "type": 68,
+  "handle": [0, 10],
+  "size": 17,
+  "bitsize": 81,
+  "nus": 1,
+  "ownerhandle": [0, 2],  }, {
+  "object": "DIMSTYLE_CONTROL",
+  "index": 8,   "type": 68,
+  "handle": [0, 10],
+  "size": 17,
+  "ize": 81,
+  "num": 1,
+  "ownerhandle": [4, 0],
+  "type": 500,
+  "handle": [0]"size": 30,
+  "ize": 173,
+  "numize": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "hr": 0,
+  ts": [
+ al]"ownerhandle": [12, 2],
+ ze": 10,
+  "bitsize": 65,
+  "num_entries": 0,
+  "ownerhandle": [4, 0],
+  "entries": [
+
+  ]
+   "object":ROL",
+  "index": 6,
+  "type": 64,
+  "handle": [0, 8]"size": 17,
+  "bitsize": 73,   "num_entries": 1,   "ownes": 0,
+  "ownerhandle": [4, 0],
+  "entries": [
+
+  ]
+
+ex": 8IOL",
+  "index": 8,   "type": 68,
+  "le": [0, 10]"size": 17,
+  "bitsize": 81,
+  "nus": 1,
+  "ownerhandle": [0, 2],  }, {
+  "object": "DIMSTYLE_CONTROL",
+  "index": 8,   "type": 68,
+  "handle": [0, 10],
+  "": 17,
+  "ize": 81,
+  "num": 1,
+  "ownerhandle": [4, 0],
+  "": 500,
+  "he": [0, 14]"": 30,
+  "bitsize": 173,
+  "numize": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "hard_owner": 0,s": [
+ al]"ownerhandle": [12, 2]e": 10,
+  "bitsize": 65,   "num_entries": 0,   "ownerhandle": [4, 0]"entries": []
+   "object":COL",
+  "index": 6,
+  "type": 64,
+  "handle": [0, 8],
+  "size": 17,
+  "bitsize": 73,
+  "num_entries": 1,
+  "owansize": 65,   "num_entries": 0,   "ownerhandle": [4, 0]"entries": []
+   "object":COL",
+  "index": 6,
+ ze": 37,
+  "bitsize": 73,   "nus": 9, "index": 8,   "": 68,
+  "handle": [0]"size": 17,
+  "bitsize": 81,
+  "ies": 2,
+  "handles": 1,
+  "owe": [4, 0]"entries": [
+[2, 39],
+   ] },
+{
+  "object"s": [
+    [201],[2, 0] 17],
+": [": []
+    }, {
+ },
+    { },
+{
+  : [  ],
+},
+  ],
+  {
+
+  }
+}

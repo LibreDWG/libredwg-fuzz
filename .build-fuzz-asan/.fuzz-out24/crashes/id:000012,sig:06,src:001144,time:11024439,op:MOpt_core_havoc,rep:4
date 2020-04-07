@@ -1,0 +1,159 @@
+{
+  "HEADER":   {
+    "unknown_0": 41214000000,
+    "UCSORGBACK": [ 0.000000, 0.000000, 0.000000 ],
+  },
+  "CLASSES": [
+    {
+      "number": 500,
+      "dxfname": "ACD",
+      "cppname": "AcDefault",
+      "appname": "Objecsses",
+      "proxyflag": 0,
+      "num_instances": 1,
+      "is_zombie": 0,
+   d": 499
+    },
+  ],
+  "OBJECTS": [
+    {
+      "object": "BLOCK_CONTROL",
+      "index": 0,
+  
+      "bitsize": 280,
+      "ownerhandle": [12, 17],
+      "layer": [5, 895],
+   ts": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rgb": "000000",
+   ag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+_flags": 0,
+      "invisible": 0,
+      "x": 3.542715,
+      "y": 4128.871501,
+      "z": 0.000000,
+      "thickness": 0.000000,n": [ 0.00 ],
+      "x_ang": 0.0  },
+    {
+      "entity": "POINT",
+      "index": 301,
+      "type": 27,
+      "handle": [0, 1102],
+      "size": 40,
+      "bitsize": 280,
+      "ownerhandle": [12, 18],
+      "layer": [5, 895],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rgb": "000000",
+        "flag": 32
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "x": 172.744255,   "pattern_len": 0.000000,
+      "alignment": 65,
+      "num_dashes": 0,
+      "strings_area": "",
+      "ownerhandle": [4, 5],
+      "extref_handle": [5, 0],
+      "styles": [
+
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index": 19,
+      "type": 42,
+      "handle": [0, 23],
+      "size": 29,
+      "bitsize": 181,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "Standard"
+      ],
+      "ownerhandle": [12, 11],
+      "reactors": [
+        [4, 12]
+      ],
+      "itemhandles": [
+        [2, 24]
+      ]
+    },
+    {
+      "object": "BLOCK_HEADER",
+      "index": 23,
+      "type": 49,
+      "handle": [0, 31],
+      "size": 237,
+      "bitsize": 216,
+      "name": "*Model_Space",
+      "xrefref": 1,
+      "xrefindex_plus1": 0,
+      "xrefdep": 0,
+      "anonymous": 0,
+      "hasattrs": 0,
+      "blkisxref": 0,
+      "xrefoverlaid": 0,
+      "loaded_bit": 0,
+      "num_owned": 68,
+      "base_pt": [ 0.000000, 0.000000, 0.000000 ],
+      "xref_pname": "",
+      "num_inserts": 0,
+      "description": "",
+      "preview_size": 0,
+      "preview": "",
+      "ownerhandle": [4, 1],
+      "null_handle": [5, 0],
+      "block_entity": [3, 32],
+      "entities": [
+        [3, 139],
+        [3, 140],
+        [3, 141],
+      ],
+      "endblk_entity": [3, 33],
+      "layout": [5, 34]
+    },
+    {
+      "entity": "BLOCK",
+      "index": 24,
+      "type": 4,
+      "handle": [0, 32],
+      "size": 27,
+      "bitsize": 198,
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "index": 256,
+        "rgb": "000000",
+        "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+      "plotstyle_flags": 0,
+      "invisible": 0,
+      "name": "*Model_Space"
+    },
+    {
+      "entity": "entity": "P": 0.000000
+    },
+  ],
+  "Template":     {
+    
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+ %"dxfname": "ACD",
+  "cppname": "/cDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLROL",
+  ex": 0,
+ype": 48,
+  dle": [0, 1]e": 57,
+ze": 73,ies": 15.00 },
+  ],
+  "":     {T": 1
+  }
+}

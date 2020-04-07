@@ -1,0 +1,243 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfname": "ACD",
+  "cppname": "AcDlt",   "appname": "O",
+  "proxyflag": 0,   "num_instances": 1,
+  "is_zombie": 0,   "item_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+    "type": 48,
+  "handle": [0, 1],
+  "size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 80],
+    [2, 381], [2, 440],
+    [2, 0],
+  ],
+  "model_space": [3, 31],
+  "paper_space": [3, 85]
+    }  {
+  "object": "LAYER_CONTROL",   "index": 1,
+  "ty7777777777777777777777777777777777777777777777777777777777777777777777777777777pe": 50,   "handle": [0, 2],   """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""  "handle": [0, 6],
+  """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""CONTROL",
+  "index": 3,
+  "type": 56,
+  "handle": [0, 5],
+  "size": 19,
+  "bitsize": 73,
+  "num_entries": 3,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, 22],
+[2, 0],
+[2, 0]
+  ],
+  "byblock": [3, 20],
+  "bylayer": [3, 21]
+    }  {
+  "object": "VIEW_CONTROL",
+  "index": 4,
+  "type": 70,
+  "handle": [0, 6],
+  """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""  "r": [5, 895],
+  sts": 0,Ude": 0,tors": 0,
+ t": "VIEW_CONTROL",
+      "index": 4,
+      "type": 60,
+      "handle": [0, 6],
+      "size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+       :[2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0],
+        [2, 0]
+      ]
+    },
+    {
+      "object": "UCS_CONTROL",
+      "index": 5,
+      "type": 62,
+      "handle": [0, 7],
+      "size": 10,
+      "bitsize": 65,
+      "num_entries": 0,
+      "ownerhandle": [4, 0],
+      "entries": [
+
+      ]
+    },
+    {
+      "object": "VPORT_CONTROL",
+      "index": 6,
+      "type": 64,
+      "handle": [0, 8],
+      "size": 17,
+ A    "bitsize": 73,
+      "num_entries": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 602]
+      ]
+    },
+    {
+      "object": "APPID_CONTROL",
+      "index": 7,
+      "type": 66,
+      "handle": [0, 9],
+      "size": 37,
+      "bitsize": 73,
+      "num_entsijs": 9,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 18],
+        [2, 710],
+        [2, 728],
+  (     [2, 917],
+        [2, 1890],
+        [2, 1891],
+        [2, 2853],
+        [2, 2862],
+        [2, 3046]
+      ]
+    },
+    {
+      "object": "DIMSTYLE_CONTROL",
+      "index": 8,
+      "type": 68,
+      "handle": [0, 10],
+      "size": 17,
+      "bitsize": 81,
+      "num_entries": 2,
+      "num_morehandles": 1,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 39]T
+        [2, 0]
+      ],
+      "morehandles": [
+        [5, 39]
+      ]
+    },
+    {
+      "obje: 9,
+      "type": 42,
+      "handle": [0, 12],
+      "size": 478,
+      "bitsize": 3373,
+      "numitems": 21,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "ACAD_ASSOCNTAILVIEWSTYLE",
+        "ACAD_GROUP",
+        "ACAD_LAYOUT",
+        "ACAD_MATERIAL",
+        "ACAD_MLEADERSTYLE",
+        "ACAD_MLINESTYLE",
+        "ACAD_PERSUBENTMGR",
+        "ACAD_PLOTSETTINGS",
+        "ACAD_PLOTSTYLENAME",
+        "ACAD_SCALELIST",
+        "AEAD_SECTIONVIEWSTYLE",
+        "ACAD_TABLESTYLE",
+        "ACAD_VISUALSTYLE",
+        "ACAD_WIPEOUT_VARS",
+        "ACDB_RECOMPOSE_DATA",
+        "AcDbVariableDictionary",
+        "AcD]DecomposeData"
+      ],
+      "ownerhandle": [4, 0],
+      "itemhandles": [
+        [2, 911],
+        [2, 735],
+        [2, 694],
+        [2, 107],
+        [2, 690],
+        [2, 13],
+        [2, 26],
+        [2, 106],
+        [2, 686],
+        [2, 23],
+        [2, 736],
+        [2, 25],
+        [2, 14],
+        [2, 668],
+        [2, 688],
+        [2, 666],
+        [2, 641],
+        [2, 601],
+        [2, 2783],
+        [2, 94],
+        [2, 2790]
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index": 10,
+      "type": 42,
+      "hand“e": [0, 13],
+      "size": 24,
+      "bitsize": 141,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "*A1"
+      ],
+      "ownerhandle": [8, 0],
+      "reactors": [
+        [4, 12]
+      ],
+      "itemhandles": [
+        [2, 599]
+      ]
+    },
+    {
+      "object": "DICTIONARYWDFLT",
+      "dxfname": "ACDBDICTIONARYWDFLT",
+      "index": 11,
+      "type": 500,
+      "handle": [0, 14],
+      "size": 30,
+      "bitsize": 173,
+      "numitems": 1,
+      "cloning": 1,
+      "hard_owner": 0,
+      "texts": [
+        "Normal"
+      ],
+      "owvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvnvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvw–vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvmitems": 21,
+      "cloningvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvwövvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv‰vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv†vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvu¶vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvlvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvve": 280,
+  "ownerhandle": [12, 15],   "layer": [5, 895],
+  "preview_exists": 0,   "entmode": 0,   "num_reactors": 0,
+  "xdic_missing_flag": 1,
+  "color": { "rgb": "000000",
+    "flag": 32   },
+  "ltype_scale": 1000,   "ltype_flags": 0,   "plotstyle_flags": 0,   "invisible": 5,
+  "z": 0.00,
+  "thickness": 0000,   "extrusion": [ 0.00, 0000, 1.00 ],
+  "x_ang":0
+    },
+  ]"Template": {
+    "MNT": 1
+  }
+}

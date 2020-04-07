@@ -1,0 +1,167 @@
+{
+  "HEADER"{
+    "unknown_0": 400,
+"UCSORGBACK": [ 0000, 0.00, 0000 ],
+  },
+  "CLASSES": [
+{
+  "number": 500,
+  "dxfnam≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥≥_class_id": 499
+},
+  ],
+  "OBJECTS": [
+    {   "object": "BLOCK_CONTROL",
+  "index": 0,
+  "type": 48,
+  "handle": [0, 1]"size": 57,
+  "bitsize": 73,   "num_entries": 15,
+  "ownerhandle": [4, 0],
+  "entries": [
+    [2, , 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0],
+[2, 0]
+  ]
+    }  {
+  "object": "UCS_CONTROL",
+  "index": 5,   "type": 62,
+  "handle": [0, 7],
+  "size": 10,   "bitsize": 65,
+  "num_entries": 0,
+  "ownerhandle": [4, 0],
+  "entries": [
+
+  ]
+    }  {
+  "object": "VPORT_CONTROL", "type": 64,   "handle": [0, 8],   "size": 17,
+  "bitsize": 73,
+  "num_entries": 1,
+  "ownerhandle": [4, 0],   "entries": [
+[2, 602]   ] },
+{
+  "object": "APPID_CONTROL",
+  "index": 7,   "type": 66,
+  "handle": [0, 9],
+  "size": 37,   "bitsize": 73,
+  "num_entries": 9,
+  "own": [4, 0],
+  "enì": [
+    [2853]  [2, 2862], [2,6]
+  ]
+    }  {
+  "object": "DIMSTYLE_CONTROL",
+"type": 68,
+  "handle": [0, 10],   "size": 17,
+  "bitsize": 81,
+  "num_entries": 2,
+  "norehandleå": 1,
+  "ownerhandle": [4, 0],   "entries": [
+[2, 39], [2, 0]
+  ],   "morehandles": [
+[5, 39]
+  ]
+},
+    {   "object": "DICTIONARY",
+    "type": 42,
+  "handle": [0, 12],
+"unknown_bit": 0,
+  "bg__flag": 0,
+  "style": [5, 17]
+    }, {
+ "entity": "POINT",
+  "index": 315,
+  "type": 27,   "handle": [0, 1123],
+  "size": 40,
+  "bitsize": 280,
+  "ownerhandle": [12, 15],
+  "layer": [5, 895],
+  "preview_exists": 0,
+  "entmode": 0,
+  "nuactors": 0,
+  "xdic_missing_flag": 1,
+  "color": {
+    "rgb": "00",
+"flag": 32
+  },"styles": [
+
+      ]
+    },
+    {
+      "object": "LTYPE",
+      "index": 17,
+      "type": 57,
+      },
+    {
+      "object": "VIEW_CONTROL",
+      "index": 4,
+      "type": 60,
+      "handle": [0, 6]"size": 21,
+      "bitsize": 73,
+      "num_entries": 10,
+      "ownerhandle": [4, 0],
+      "entries": [
+        [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]  [2, 0]
+      ]
+   ,
+      "reactors": [ [4, 591]
+      ],
+      "layer": [5, 138],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 1,
+      "xdic_miies": [
+         [2, 0]
+      ],les": [
+        [5, 39]
+      ]
+    },
+    {
+      "object": "DICTIONARY",
+      "index": 9,
+      "type": 42,
+      "handle": [0, 12]it": 0,
+  g": 0,style": [5, 17]
+    },
+    {
+      "entity": "POINT",
+      "index": 315,
+      "tyèe": 27,
+      "handle": [0, 1123],
+      "size": 40,
+      "bitsize": 280,
+      "ownerhandle": [12, 15],
+      "layer": [5, 895],
+      "preview_exists": 0,
+      "entmode": 0,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "color": {
+        "rgb": "000000",
+        "flag": 3},
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+     8": 0,
+      "invisible": 0,
+      "x": -01
+    },
+    {
+      "object": "UCS_CONTROL",
+      "index": 5,
+      "type": 62,
+    ner": 0,
+      "y": 4701.847035,
+      "z": 0.000000,
+      "thickness": 0.000000,
+      on": [ 0 0.000000, 1.000000 ],
+      "x_ang": 0.   },
+  ],
+  "Template":     {
+    "MEASUREMENT": 1
+  }
+}

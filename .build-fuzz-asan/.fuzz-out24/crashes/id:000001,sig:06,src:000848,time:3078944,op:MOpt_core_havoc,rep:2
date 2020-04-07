@@ -1,0 +1,53 @@
+{
+  "HEADER"{
+    "u   "mode: [3, 31],
+ e": [3, 85]
+},
+    {_0":0000,
+  K": [ 0.00 ]},
+  "CLASSES": [
+    {
+wn_0": 400,"number": 500,
+  "dxfname": "t",
+  "appname": "Obses",
+  "proxyflag": 0,
+  "num_instances": 1,
+  "g": 0,
+  "num_instances": 1,
+  "is_zombie": 0,
+  "item_class_id": 4   }],
+  "OBJECTS": [
+    {
+  "object": "BLOCK_CONTRO³ÝÓß  "index": 0,
+  "type": 48,   "handle": [0, 1],   "size": 1,
+  "g": 0,
+  "num_instances": 1,
+  "is_zombie": 0,
+  "item_class_id": 4   }],
+  "OBJECTS": [
+    {
+  "": 57,
+  "bitsize": 73,
+  "num_entries": 15,   "ownerhandle": [4, 0]"entries": [ [2, 80]  [2, 381],
+[2, 440]  [2, 0]],
+  "model_space": [3, 31],   "paper_space": [3, 85]
+    }, {
+  "object": "LAYER_CONTROL",
+  "index": 1,
+  "type": 50,
+  "handle": [0, 2],
+  "size": 26,
+  "bitsize": 73,
+  "num_entries": 5,
+  "ownerhandle": [4, 0],
+  "0.000tity"n_bit": 0,
+  "blag": 0,   "e": [5, 17]
+},
+    {ty":INT",
+  ex": 315,
+  on": [ 0 0.00, 1],
+ ang": 0.   }],
+ te": {
+    "ENT": 1
+  }
+}
