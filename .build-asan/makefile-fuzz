@@ -44,6 +44,8 @@ encode: $(RW) $(INDXF) $(INJSON)
 dxf:    $(OUTDXF) $(INDXF)
 json:   $(OUTJSON) $(INJSON)
 
+.PHONY: fail
+
 # do it in parallel, so collect all failures beforehand
 fail:
 	-rm fail 2>/dev/null
