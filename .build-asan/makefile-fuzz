@@ -44,6 +44,13 @@ encode: $(RW) $(INDXF) $(INJSON)
 dxf:    $(OUTDXF) $(INDXF)
 json:   $(OUTJSON) $(INJSON)
 
+# do it in parallel, so collect all failures beforehand
+fail:
+	-rm fail 2>/dev/null
+	-for l in $(INDXF) $(INJSON) $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON); do \
+	  [ -s "$$l" ] && echo "$$l" >> fail; done
+	make -j4 -f makefile-fuzz `cat fail`
+
 log.outdxf-gh176: gh176.sh programs/dwg2dxf 
 	./gh176.sh
 log.rw-gh178: gh178.sh programs/dwgrewrite
