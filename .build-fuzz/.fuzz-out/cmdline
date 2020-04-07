@@ -1,0 +1,8 @@
+programs/dwgwrite
+-v0
+-I
+json
+-y
+-o
+/dev/null
+@@

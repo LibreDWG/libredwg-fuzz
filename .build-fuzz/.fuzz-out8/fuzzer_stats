@@ -1,0 +1,30 @@
+start_time        : 1578473891
+last_update       : 1578569295
+fuzzer_pid        : 4740
+cycles_done       : 70
+execs_done        : 10548893
+execs_per_sec     : 36.68
+paths_total       : 7208
+paths_favored     : 500
+paths_found       : 7205
+paths_imported    : 0
+max_depth         : 48
+cur_path          : 6308
+pending_favs      : 1
+pending_total     : 2528
+variable_paths    : 6048
+stability         : 18.29%
+bitmap_cvg        : 77.68%
+unique_crashes    : 53
+unique_hangs      : 252
+last_path         : 1578569268
+last_crash        : 1578568980
+last_hang         : 1578565992
+execs_since_crash : 37819
+exec_timeout      : 140
+afl_banner        : dwgrewrite
+afl_version       : 2.56b
+target_mode       : persistent deferred 
+command_line      : afl-fuzz -d -m none -i ../.fuzz-in -o .fuzz-out programs/dwgrewrite -v0 @@ /dev/null
+slowest_exec_ms   : 140
+peak_rss_mb       : not available while afl is running

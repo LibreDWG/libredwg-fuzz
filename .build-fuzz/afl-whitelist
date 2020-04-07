@@ -1,0 +1,7 @@
+in_json.c
+dynapi.c
+encode.c
+dwgwrite.c
+dwg.c
+dwg.spec
+free.c
