@@ -1,0 +1,1142 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1018
+   9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+D
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+StandArd
+  9
+$CLAYER
+  8
+Tavolo 3
+  9
+$CELTYPE
+  6
+ByLayer
+ 
+ 70
+ BLK
+  1
+
+  9$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9TD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+1
+
+  9SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+245476 9
+$HANDSEED
+  5
+1001$SURFV
+ 70
+   SE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$U
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2 0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+SS
+  1DFLT
+  2
+AcDbDault
+  3
+Objec0
+281SS
+  1ARYVAR
+  2
+AcDaryVar
+  3
+Objlasses
+280
+     0
+281LASS
+  1
+WIPEOUT
+  2eout
+  3
+WipeO2175
+ 90
+     0
+281
+SS
+  1S
+  2
+bles
+  3
+"Wipe
+281
+  0
+CLASS
+  1
+M
+  2
+Acal
+  3
+     0
+281
+  0
+CLASS
+  1
+VLE
+  2
+  3
+O    0
+281
+    
+CLASS
+  1
+TAB
+  2
+Actyle
+  3
+Objec4095
+ 90
+     0
+281
+SS
+  1
+SCALE
+  2
+AcDbScale
+  3
+Obj  0
+281LASS
+  1
+MLEAD
+  2
+AcrStyle
+  3
+ACD0
+281
+SS
+  1STYLE
+  2
+AcDb
+  3
+O    0
+281
+    
+CLASS
+  1
+ACD
+  2!Ale
+  3
+     0
+281
+  0
+CL€SS
+  1
+AR
+  2
+er
+  3
+     0
+281
+  0
+CLASS
+  1
+AAGER
+  2
+AcDbP
+  3
+A0
+281
+SS
+  1S
+  2
+eep
+  3
+     0
+281
+ S
+  1
+GRAPH
+  2
+AcDbh
+  3
+     0
+281
+   õ¼LASS
+  1
+AC
+  2
+Atory
+  3
+Objec0
+281
+SS
+  1K
+  2
+
+  3
+O    0
+281
+    
+CLASS
+  G
+ACDTION
+  2
+AcDbAon
+  3
+     0
+281 0
+CL€SS
+  1
+AR
+  2
+er
+  3
+     0
+281
+  0
+CLASS
+  1
+AAGER
+  2
+AcDbP
+  3
+A0
+281
+SSõßßÎS
+  2
+eep
+  3
+     0
+281
+ S
+  1
+GRAPH
+  2
+AcDbh
+  3
+     0
+281
+   õ¼LASS
+  1
+AC
+  2
+Atory
+  3
+Objec0
+281
+SS
+  )K
+  2
+
+  3
+O    0
+
+  3
+SCENEOE
+ 90
+     0
+281
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2281
+    
+CLASS
+  1
+ACDTION
+  2
+AcDbAon
+  3
+     0
+281
+  0
+CLASS
+  1
+ABODY
+  2
+AcDbA
+  3
+O    0
+281
+    
+CLASS
+  1
+ACDNPARAM
+  2
+AcDnParam
+  3
+Objlasses
+280
+     0
+281LASS
+  1
+ACDBAPARAM
+  2
+AcDbnParam
+  3
+Objlasses
+280
+     0
+281LASS
+  1
+ACDBACY
+  2
+  3
+O    0
+281
+    
+CLASS
+  1
+ACD
+  2
+Acy
+  3
+     0
+281
+  0
+CLAS+
+  1
+ASION
+  2
+AcDbAion
+  3
+     1
+281
+ S
+  1
+
+  2
+Asoc
+  3
+     0
+281
+  0
+CLASS
+  1
+CMAP
+  2le
+  3
+     0
+281
+  0
+CLASS
+  1
+TENT
+  2nt
+  3
+     0
+281
+  0
+CLASS
+  1
+TETRY
+  2
+AcDbTetry
+  3
+Objecsses
+ 90
+     0
+281
+SS
+  1LE
+  2aTable
+  3
+Objlasses
+ 80
+     0
+281
+  0
+CLASS
+  1
+ABODY
+  2
+AcDbA
+  3
+O    0
+281
+    
+CLASS
+  1
+ACDNPARAM
+  2
+AcDnParam
+  3
+Objlasses
+280
+     0
+281LASS
+  1
+ACDBAPARAM
+  2
+AcDbnParam
+  3
+Objlasses
+280
+     0
+281LASS
+  1
+ACKBACY
+  2
+  3
+O    0
+281
+    
+CLASS
+  1
+ACD
+  2
+Acy
+  3
+     0
+281
+  0
+CLASS
+  1
+ASION
+  2
+AcDbAion
+  3
+     1
+281
+ S
+  1
+
+  2
+Asoc
+  3
+     0
+281
+  0
+CLASS
+  1
+CMAP
+  2le
+  3
+     0
+281
+  0
+CLASS
+  1
+?ENT
+  2nt
+  3
+     0
+281
+  0
+CLASS
+  1
+TETRY
+  2
+AcDbTetry
+  3
+Objecsses
+ 90
+     0
+281
+SS
+  1LE
+  2aTable
+  3
+Objlasses
+ 80
+     0
+281LASS
+  1
+MULTILEADER
+  2
+AcD
+  3
+A  Ñ  0
+281
+   
+CLASS
+  1
+LIGHT
+  2ght
+  3
+SCENEO     0
+282
+er
+  3
+     0
+281
+  2
+
+  3
+SCENEOE
+ 90
+     0
+281
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0Table
+ 70
+     1
+1001
+ACAD
+1000
+Dÿ
+1071
+ 
+  0
+VPORT
+  5
+25A
+330
+8
+
+  2
+*0
+ 21
+
+0.0
+1001
+ACAD_NAV_VCDISPLAY
+1070
+ 
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100 0
+LTYPE
+  5
+14
+330
+5
+100cord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+   
+     0
+ 40
+0
+LTYPE
+  5
+15
+330
+5d
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSlecord,  2
+Continuous
+ 70
+     0
+  3
+Solid  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACIONARY
+360
+2C0
+330
+0
+100
+Ac
+LAYER
+  5
+10ò
+102
+{
+360
+2B7
+102
+}
+330rd
+  2    7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+89
+102
+{
+360
+2B9
+102
+}
+330
+2
+100d
+  2
+Tavolo Â
+ 70
+  2
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8A
+1ONARY
+360
+2BB
+330
+2Record
+  2
+Tavolo 3
+ 70
+    
+     4
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+37F
+330
+:
+100rd
+  2   7
+  6
+Continuous
+290
+    
+    -3
+390
+F
+  0
+LAYER
+  5
+75D
+330
+2
+1bled
+  2
+ADSK_
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStaQdard
+1000
+
+1000
+Sk l  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+
+ 70
+  0
+STYLE
+  5
+11
+330
+3
+100
+ecod
+  2
+Standard
+ 70
+     0
+ßËÏò
+0
+1.0
+ 50
+0*0
+ 71 5
+7
+330
+0
+100bol
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100 0
+APPID
+  5
+12
+330
+9
+100RecPID
+  5
+2C6
+330
+9
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+  0
+APPID
+  5
+2D8
+330
+9
+100
+AcDbScord
+  2
+ACAD_ROM
+APPID
+  5
+395
+330
+9
+100
+RegAp\ord
+  2
+ACAD_
+APPID
+  5
+762
+330
+9
+100
+d
+  2
+PPER
+ 70
+  0
+APPID
+  5
+763
+330
+9
+  2
+ACER_ÿÿÿ70
+  0
+APPID
+  5
+F40
+330
+9
+  2
+AC
+APPID
+  5
+F47
+3Ì000
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0le
+ 71
+     1
+340
+27
+  0
+DIMSTYLE
+105
+27
+102
+{AC±D_REACTORS
+330
+37E
+330
+399
+330
+420
+330
+430
+330
+43B
+330
+453
+330
+467
+330
+47F
+330
+497
+330
+4AF
+102
+}
+330
+A
+100
+ord
+  2
+ISO-25
+284
+     8
+340
+11
+ 
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcD
+  8
+0egin
+  2
+*Mode0
+ENDBLK
+  5
+21
+330
+1F
+100tity
+  8
+0
+10
+  0
+BLOCK
+  5
+57
+330
+55
+1  1
+  8ock 0
+ENDBLK
+  5
+58
+330
+55    1
+  8
+0
+1
+  0
+BLOCK
+  5
+52
+330
+50
+8
+0
+100
+AcDbBn
+  2
+
+
+0.0
+
+ 72
+ 32800
+  1     0
+  0
+ENDBLK
+  5
+53
+330Ê50     1
+  8
+0
+BLOCK
+  5õ17E
+330
+17D
+100
+ty
+  8ckBegin
+  2
+bl
+
+  0
+LINE
+  5
+18B
+330
+17Dy
+  8
+Tavolo 3
+ 10
+279
+ 21
+91.25601
+LINE
+  5
+18C
+330
+17D
+100ity
+  
+Tavolo 3
+100e
+ 10
+3863
+ 21
+167.4  0
+LINE
+  5
+18D
+330
+17D
+1Entity
+  8
+Tavolo 3
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+8B
+330
+1F
+
+  8
+Tavolo 3
+10
+370.34307
+ 20
+730.
+  0
+XLINE
+  5
+8C
+3ÿÿÿÿ1F
+
+  8
+Tavolo 2
+bXl
+LW
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+Tavolo 3
+  9
+$CELTYPE
+  6
+ByLayer
+ 
+ 70
+ BLK
+  1
+
+  9$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9TD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+1
+
+  9SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+245476 9
+$HANDSEED
+  5
+1001$SURFV
+ 70
+   SE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$U
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2 0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+SS
+  1DFLT
+  2
+AcDbDault
+  3
+Objec0
+281
+SS
+ ßÎò¾RYVAR
+  2
+AcDaryVar
+  3
+Objlasses
+280
+     0
+281POLYLINE
+  5
+8D
+330
+1F
+100
+Ay
+  8
+Tavolo 2
+100
+Aine
+ 90  7
+¿70
+     0
+ 43
+0
+57628673
+  0
+LWPOLYLINE
+  5
+8E
+102
+{ACAD_REACTORS
+330
+24F
+102
+}
+330
+1F
+100  25
+ 70
+     8
+Tavolo 3
+100

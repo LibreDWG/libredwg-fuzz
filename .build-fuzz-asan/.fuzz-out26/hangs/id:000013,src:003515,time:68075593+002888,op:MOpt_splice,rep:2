@@ -1,0 +1,787 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1012
+  9
+$DIMBLK1
+  
+$DK2
+  1
+   
+ENDSEC
+
+SECTION
+  2
+T
+VPORT
+  5
+ÿÿA
+330
+8
+LTYPE
+ 
+LTYPE
+  5
+5
+1 0
+  3
+M
+
+LTYPE
+
+330
+  5ARY
+360
+2B7
+LAYER
+ 5 0
+STYLE
+  5/
+3
+1
+
+APPID
+  330
+9
+APPID
+
+9
+ID
+  5
+762
+330
+1 0
+APPID
+  5
+76
+APPID
+  5
+F10
+APPID
+  5
+330
+9
+APPD
+ 70
+     0
+97777777777777777777777777777 9ASS
+  1
+DICTIONARYVAR
+ectDBX 
+WIPEOUTVARIABLES
+  2
+AcDbWipS
+  1
+MATERIAL
+  2
+Ac0
+CLASS
+  1
+VISUALSTYLE
+  2 0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+A
+SCALE
+
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+A
+  3
+ACD
+ACDBSECTIONVIEWSTYLE
+
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewSty
+  1
+ACDBASSOCPERSSUBENTMANAGER
+  2bentManag
+  1
+ACDBPERSSUBENTMANAGER
+  
+ACSH_SWEEP_CLASS
+  2
+ACAD_EVALUATION_GRAPH
+   0
+  0
+CLASS
+  1
+ACSH_HISTORY_CLASS
+  2
+AcDbShHi
+  1
+ACDBASSOCACTION
+     0
+ ACDBASSOCALIGNEDDIMACTIONBODY
+ 
+  1
+ACDBASSOCOSNAPPOINTREFACTIONPARAM
+LASS
+  1
+ACDBASSOCVERTEXACTIO±PARAM
+rtexActioLASS
+  1
+ACDBASSOCGEOMDEPENDENCY
+  2ependency  1
+ACDBASSOCDEPENDENCY
+  2
+A
+281
+SS
+  1
+DIMASSOC
+  2
+AcDbDimAS
+  1
+CELLSTYLEMAP
+  2  1
+  0
+CLASS
+  1
+TABLECONTENT
+  2
+  1
+TABLEGEOMETRY
+  2
+AcDbT
+DATATABLE
+  2
+  1
+SUN
+  2
+BLE
+  2
+VPORT
+  5
+8
+0
+    
+  0
+VPORT/
+  5
+25A
+330
+8
+2
+0.0
+ 79
+     0
+146
+0.0
+1001
+ACAD_NAV_VC 0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymb     0
+  3
+
+ 72
+   
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolUÀ 0
+  3
+
+ 72
+    6540
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbS
+  3
+Solid line
+ 72
+    6
+LAYER
+  5
+10
+102
+{ACAD_XDICTIONARY
+360
+2B7
+102  7
+102
+{ACAD_REACTORS
+330
+37
+390
+F
+  0
+LAYER
+  5
+89
+102
+{ACAD_XDICTIONARY
+360
+2B9
+102
+}0
+F
+  0
+LAYER
+  5
+8A
+102
+{ACAD_XDICTIONARY
+360
+2BB
+102
+}
+330
+2
+100
+AcDbSymbolTablrd
+70
+     0
+ 62
+     4
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+37F
+330
+2
+100
+AcDbSymbol  0
+ 62
+     7
+  6
+Continuous
+20
+STYLE
+  5
+11
+330
+3
+1
+ 42
+100.0
+  3
+txt
+  4
+
+  9
+  0
+APPID
+  5
+12
+330
+9
+D
+ 
+APPID
+  5
+2C6
+330
+9
+100
+A     0
+  0
+APPID
+  5
+2D8
+330
+9
+100
+AcDbSymb
+APPID
+  5
+395
+330
+9
+10  0
+  0
+APPID
+  5
+762
+330
+9
+100
+AcDbSymb0
+  0
+APPID
+  5
+763
+330
+90
+  0
+APPID
+  5
+F40
+330
+9
+APPID
+  5
+F47
+330
+9
+10
+  0
+APPID
+  5
+FF330
+9
+11
+   0
+DIMSTYLE
+105
+27
+102
+{ACAD_REACTORS
+330
+37E
+330
+399
+330
+420
+330
+430
+330
+43B
+330
+453
+330
+467
+3
+102
+}
+330
+B
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*
+  0
+ENDBLK
+  5
+21
+330
+1F
+  8
+0
+100
+A
+BLOCK
+  50000E+20
+ 20
+1.00000000000E+20
+  9
+$PEXTM
+  8
+DLSTYLE
+  2
+Standa
+  1
+
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AhDefault
+  3
+O
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2ar
+  3
+ObjectDBX Classes
+ 90
+     0
+281
+     0
+  0
+CLASS
+  1
+WIPEOUT
+  2
+AcDbWipeout
+  3
+WipeOut|Pect 0
+281
+     1
+  0
+CLASS
+  1
+WIPEOUTVARIABLEQ
+  2
+AcDb
+  3
+"WipeOut|Procation|Com"
+280
+     0
+281LASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+Obj 90
+     1153
+280
+     0
+281LASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+5
+ 91
+     0
+281
+     0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX    0
+281
+     0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX C 0
+281
+     0
+  0
+CLASS
+  1
+ACLE
+  2
+AcDbSectionViewStyle
+  325
+ 91
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDb
+  3
+ObjectDBX    0
+281
+     0
+  0
+CLASS
+  1
+ACDBASSOCPERSSUBENTMANAGER
+  2
+AcDbAssocPe
+  3
+ObjectDBX    0
+281
+     0
+  0
+CLASS
+  1
+ACDBPERSSUBENTMANAGER
+  2
+nager
+  3
+AcDbr
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACSH_SWEEP_CLASS
+  2
+AcDbShSweep
+  3
+ObjectDBX    0
+281
+     0
+  0
+CLASS
+  1
+ACAD_EVALUATION_¸­¾¯H
+  2
+AcDbEvalGraph
+  3
+ObjectDBX C  1
+281
+     0
+  0
+CLASS
+  1
+ACSH_HISTORY_CLASS
+  2
+AcDbShHistory
+  3
+s
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBASSOCNETWORK
+  2
+AcDbAssocNetwork
+  3
+ObjectDBX Classes
+ 8
+     0
+281ASS
+  1
+ACDBASSOCACTIOS
+  2
+
+  3
+ObjectDBX    0
+281
+     0
+  0
+CLASS
+  1
+ACDBASSOCALIGNEDDIMACTIONBODY
+  2
+AcDbAssonBody
+  3
+ObjectDBX Classes
+ 90
+     0
+281ASS
+  1
+ACDBASACTIONpARAM
+  2ram
+  3
+ObjectDBX Classes
+280
+     0
+281
+ S
+  1
+ACDBASSOCGEOMDEPENDENCY
+  2
+AcDbAssocGeomDependency
+  3
+ObjectDBX Cl 0
+281
+     0
+  0
+
+1Entity
+  8
+Tav
+  0
+MTEXT
+  5
+3AE
+330
+39Ay
+  8
+  0
+POINT
+  5
+3B0
+330
+39A
+
+  8
+De  0
+POINT
+  5
+3B1
+330
+39A
+100
+AcD
+  8
+De  0
+POINT
+  5
+3B2
+330
+39A
+
+  8
+De  0
+POINT
+  5
+3B3
+330
+39A
+100
+AcD
+  8
+De 0
+ENDBLK
+  5
+39C
+330
+39A
+
+  8
+0
+BLOCK
+  5
+422
+330
+421
+100ity
+  8ockBegin
+  2
+*  0
+LINE
+  5
+42A
+330
+421
+1Entity
+  8
+Tav
+MTEXT
+  5
+42B
+330
+421
+100ity
+  8
+     0
+     5
+ 72
+     1
+ 
+POINT
+  5
+42C
+330
+421
+100ity
+  8
+Defpoi
+POINT
+  5
+42D
+330
+421
+100ity
+  8 0
+POINT
+  5
+42E
+330
+421
+1Entity
+  8
+Defpoints
+ENDBLK
+  5
+423
+330
+421
+100  0
+BLOCK
+  5
+432
+330
+431
+100
+AcD
+  8
+0egin
+  2
+*D7
+  0
+LINE
+  5
+435
+330
+431
+1Entity
+  8
+Tav
+LINE
+  5
+436
+330
+431
+100
+ty
+  8  0
+MTEXT
+  5
+437
+330
+431
+
+  8
+Taext
+ 10DIMASSOC
+  2
+A

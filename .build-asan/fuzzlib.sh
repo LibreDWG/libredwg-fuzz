@@ -56,7 +56,7 @@ testhangs () {
     ASAN_OPTIONS="allocator_may_return_null=1 detect_leaks=1 symbolize=1"
     for d in $HANGS/id*
     do
-        timeout 30 $PROG "$d" >$ALL 2>&1
+        timeout 15 $PROG "$d" >$ALL 2>&1
         [ $? == 124 ] && echo HANG && echo $d | tee -a $PRE-hangs$POST
         eval "rm $RM" 2>/dev/null
         (grep -a -5 'ERROR: AddressSanitizer' $ALL && echo $d && echo) | tee -a $PRE-crashes$POST

@@ -1,0 +1,11 @@
+make clean
+# ./cfg-afl-clang-fast.sh
+AR=llvm-ar-7 RANLIB=llvm-ar-7 ./make-afl-clang-fast-indxf.sh -M m
+# ./run-afl-clang-fast-indxf.sh -M m
+
+# new term
+tmux
+./run-afl-clang-fast-indxf.sh -S s1
+# new term
+tmux
+./run-afl-clang-fast-indxf.sh -S s2 -R

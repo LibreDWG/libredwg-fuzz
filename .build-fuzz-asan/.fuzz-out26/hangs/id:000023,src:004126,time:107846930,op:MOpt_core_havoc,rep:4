@@ -1,0 +1,1390 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1018
+  9
+$ACADMAINTVER
+ 70
+   104
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+D
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+Tavolo 3
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT$SKNOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+24547PLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+100
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUS
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+
+  1
+
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1YLE
+  2
+AcDbVisualStyle
+  3
+4
+280
+     0
+281
+     0
+  0 0
+CLASS
+  1
+ENTMANAGER
+  2bentManager
+  3  1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+NAGER
+  2
+AcDbr
+  3
+AcDbPersSubentManager
+ 80
+     0
+281ASS
+  1
+ACSH_SWEEP_CLASS
+  2
+AcDbShSweep
+  3
+ObjectDBX Cla0
+281
+     0
+  0
+CLASS
+  1_GRAPH
+  2
+AcDbEvalGraph
+  3 1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AS
+  2
+AcDbShHistory
+  3
+ObjectDBX Classes
+ 80
+     0
+281ASS
+  1
+ACDBASSOCNETWORK
+  2k
+  3
+ObjectDB     0
+281
+     0
+  0
+CLASS
+  1
+ACDBASSOCACTION
+  2
+AcDbAssocAction
+  3ses
+ 90
+     1
+281
+     0
+  0
+CLASS
+  1
+DIMACTIEA     0
+281
+     1
+  0
+CLASS
+  1
+LIGHT
+  2
+AcDbLight
+  3     0
+281
+     1
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SC 0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0 1
+1001
+ACAD
+1000
+DbSaveVer
+1071
+       69
+  0
+VPORT
+  5
+25A
+330
+8
+2
+0.0
+ 79
+     0
+146
+0.0
+1001
+ACAD_NAV_VCDISPLAY
+1070
+ AB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100 0
+LTYPE
+  5
+14
+330
+5
+100cord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+LTYPE
+  5
+15
+330
+5
+100
+Acd
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+   0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+2C0
+102
+}
+330
+0  5
+  0
+LAYER
+  5
+10
+102
+{ACAD_XDICTIONARY
+360
+2B7
+102
+}
+330
+2
+100d
+  2
+0
+ 70
+  7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+89
+102
+{ACAD_XDICTIONARY
+360
+2B9
+102
+}
+330
+2
+100
+AcDbSymboeRecord
+  2
+Ta
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8A
+102ARY
+360
+2BB
+102
+}
+330
+2
+1cord
+  2
+Tavolo 3
+ 70
+     0 6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+37F
+330
+2
+100
+AcDbSymbleRecord
+  2
+D 7
+  6
+Continuous
+290
+     0
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+75D
+330
+2
+100
+AcDbSyableRecord
+  2
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+Spe
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0 1
+  0
+STYLE
+  5
+11
+330
+3ableRecord
+  2
+Standard
+ 70
+0
+ 42
+100.0
+  3
+txt
+  4
+
+
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+A
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0  9
+  0
+APPID
+  5
+12
+330
+9leRecord
+  2
+A
+  0
+APPID
+  5
+2C6
+330
+9
+100
+AcDbSymbolTRecord
+  2
+ACA0
+APPID
+  5
+2D8
+330
+9
+100rd
+  2
+ACAD_EX   0
+  0
+APPID
+  5
+395
+330
+9
+100
+AcDbSymableRecord
+  2
+ACAD_STEPID
+ 70
+     0
+  0
+APPID
+  5
+762
+330
+9
+100
+AcPID
+  5
+763
+330
+9
+100
+AcDbppTableRecord
+  2
+ACAD_MATERIAL_MAPPER_2
+ 70
+     0
+  0
+APPID
+  5
+F40
+330
+9
+100
+AcDbppTableRecord
+  2
+ACAD_MLEADER
+  0
+APPID
+  5
+F47
+330
+9
+100
+AcDbSymbolTRecord
+  2
+ACA0
+  0
+APPID
+  5
+FFF
+330
+9eRecord
+  2
+Ac
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+A
+ 71
+     1
+340
+27
+  0
+DIMSTYLE
+105
+27
+102
+{ACAD_REACTORS
+330
+37E
+330
+399
+330
+420
+330
+430
+330
+43B
+330
+453
+330
+467
+330
+47F
+330
+497
+330
+4AF
+102
+}
+330
+A
+100
+Acd
+  2
+ISO-25
+
+343
+0.03937007
+283
+     0
+284
+     8
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0Table
+ 70
+    15
+  0
+BLOCK_RECORD
+  5
+1F
+102
+{ACAD_XDICTIONARY
+360
+38ClTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcockTableRecord
+  2
+*Paper_Space
+340
+56
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTecord
+  2
+*Paper_Space0
+340
+51
+  0
+BLOCK_RECORD
+  5
+9
+$
+  1
+
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1WDFLT
+  2
+AcDbfault
+  3
+ObjectDBX Classes
+ 80
+     0
+281ASS
+  1
+DICTIONARYVAR
+  2
+Ac
+  3
+ObjectDBX    0
+281
+     0
+  0
+CLASS
+  1
+WIPEOUT
+  2
+AcDbWipeout
+  3
+WipeOut|Prod     0
+281
+     1
+  0
+CLASS
+  1
+LIGHT
+  2
+AcDbLight
+  3     0
+281
+     1
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SC 0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0 1
+1001
+ACAD
+1000
+DbSaveVer
+1071
+       69
+  0
+VPORT
+  5
+25A
+330
+8
+100
+AcDbSymbolT  0
+ 10
+0.0
+ 2
+0.0
+ 79
+     0
+146
+0.0
+1001
+ACAD_NAV_VCDISPLAY
+1070
+ AB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100 0
+LTYPE
+  5
+14
+330
+5
+100cord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+  5 65
+ 73
+     0
+LTYPE
+  5
+15
+330
+5
+100
+Acd
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+   0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+2C0
+102
+}
+330
+0  5
+  0
+LAYER
+  5
+10
+102
+{ACAD_XDICTIONARY
+360
+2B7
+102
+}
+330
+2
+100d
+  2
+0
+ 70
+  7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+89
+102
+{ACAD_XDICTIONARY
+360
+2B9
+102
+}
+330
+2
+100
+AcDbSymboeRecord
+  2
+Ta
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8A
+102ARY
+360
+2BB
+102
+}
+330
+2
+1cord
+  2
+Tavolo 3
+ 70
+     0 6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+37F
+330
+2
+100
+AcDbSymbleRecord
+  2
+D 7
+  6
+Continuous
+290
+     0
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+75D
+330
+2
+100
+AcDbSyableRecord
+  2
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+Spe
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0 1
+  0
+STYLE
+  5
+11
+330
+3ableRecord
+  2
+Standard
+ 70
+0
+ 42
+100.0
+  3
+txt
+  4
+
+
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+A
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0  9
+  0
+APPID
+  5
+12
+330
+9leRecord
+  2
+A
+  0
+APPID
+  5
+2C6
+330
+9
+100
+AcDbSymbolTRecord
+  2
+ACA0
+APPID
+  5
+2D8
+330
+9
+100rd
+  2
+ACAD_EX   0
+  0
+APPID
+  5
+395
+330
+9
+100
+AcDbSymableRecord
+  2
+ACAD_STEPID
+ 70
+     0
+  0
+APPID
+  5
+762
+330
+9
+100
+Ac
+  2
+ACAD_MATERIAL_MAPPER
+ 70
+     0
+  0
+APPID
+  5
+763
+330
+9
+100
+AcDbppTableRecord
+  2
+ACAD_MATERIAL_MAPPER_2
+ 70
+     0
+  0
+APPID
+  5
+F40
+330
+9
+100
+AcDbppTableRecord
+  2
+ACAD_MLEADER
+  0
+APPID
+  5
+F47
+330
+9
+100
+AcDbSymbolTRecord
+  2
+ACA0
+  0
+APPID
+  5
+FFF
+330
+9eRecord
+  2
+Ac
+TABLE
+  2
+D1MSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+A
+ 71
+     1
+340
+27
+  0
+DIMSTYLE
+105
+27
+102
+{ACAD_REACTORS
+330
+37E
+330
+399
+330
+420
+330
+430
+330
+43B
+330
+453
+330
+467
+330
+47F
+330
+497
+330
+4AF
+102
+}
+330
+A
+100
+Acd
+  2
+ISO-25
+
+343
+0.03937007
+283
+     0
+284
+     8
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0Table
+ 70
+    15
+  0
+BLOCK_RECORD
+  5
+1F
+102
+{ACAD_XDICTIONARY
+360
+38ClTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcockTableRecord
+  2
+*Paper_Space
+340
+56
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTecord
+  2
+*Paper_Space0
+340
+51
+  0
+BLOCK_RECORD
+  5
+17D
+330
+1
+100
+AcockTableRecord
+  2
+bloko
+340
+0
+310
+280000002000000020000000010008000000000000808000800000008000800080800000C0C0C000C0DCC000F0CAA6000020400000206000002080000020A0000020C0000020E0000040000000402000004040000040600000408000040C0000040E00000600000006020000060400000606000006080000060A0000060C0000060E000bSymbolTRecord
+APPID
+  5
+FFF
+  2
+Ac
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+1ble
+ 70
+     2
+100
+A
+ 71
+     1
+340
+27
+  0
+DIMSTYLE
+105
+27
+102
+{ACAD_REACTORS
+330
+37E
+330
+399
+330
+420
+330
+430
+330
+43B
+330
+453
+330
+467
+330
+47F
+330
+497
+330
+4AF
+102
+}
+330
+A
+100
+Acd
+  2
+ISO-25
+
+343
+0. 8
+340
+11
+  0ABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0Table
+ 70
+    15
+  0
+BLOCK_RECORD
+  5
+1F
+102
+{ACAD_XDICTIONARY
+360
+38C
+102
+}
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+55
+330
+1Record
+  2
+*Paper_Space
+340
+56
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTecord
+  2
+*Paper_Space0
+.40
+51
+  0
+BLOCK_RECORD
+  5
+9
+$
+  1
+
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1WDFLT
+  2
+AcDbfault
+  3
+ObjectDBX Cl 0
+281ASS
+  1
+DICTIONARYVAR
+  2
+Ac
+  3
+ObjectDBX    0
+281
+     0
+  0
+CLASS
+  1
+WIPEOUT
+  2
+AcDbWipeout
+  3
+WipeOut|Prod     0
+281
+     1
+  0
+CLASS
+  1
+LIGHT
+  2
+AcDbLight
+  3     0
+281
+     1
+  0
+CLASS
+  1
+SUN
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0 1
+1001
+ACAD
+1000
+DbSaveVer
+1071
+       69
+  0
+VPORT
+  50000802
