@@ -9,7 +9,13 @@ INDXF=  log.indxf-crashes \
 	log.indxf-gh186 \
 	log.indxf-gh189 \
 	log.indxf-gh190 \
-	log.indxf-crashes25
+	log.indxf-crashes25 \
+	log.indxf-crashes26 \
+	log.indxf-crashes27 \
+	log.indxf-crashes28 \
+	log.indxf-crashes29 \
+	log.indxf-crashes30 \
+	log.indxf-crashes31
 RW=	log.rw-crashes7 \
 	log.rw-crashes8 \
 	log.rw-crashes13 \
@@ -84,10 +90,22 @@ log.indxf-crashes4: ./crashes4.sh programs/dxf2dwg
 	./crashes4.sh
 log.indxf-crashes5: ./crashes5.sh programs/dxf2dwg
 	./crashes5.sh
-log.indxf-crashes6: ./crashes5.sh programs/dxf2dwg
+log.indxf-crashes6: ./crashes6.sh programs/dxf2dwg
 	./crashes6.sh
-log.indxf-crashes25: ./crashes25.sh programs/dwgwrite
+log.indxf-crashes25: ./crashes25.sh programs/dxf2dwg
 	./crashes25.sh
+log.indxf-crashes26: ./crashes26.sh programs/dxf2dwg
+	./crashes26.sh
+log.indxf-crashes27: ./crashes27.sh programs/dxf2dwg
+	./crashes27.sh
+log.indxf-crashes28: ./crashes28.sh programs/dxf2dwg
+	./crashes28.sh
+log.indxf-crashes29: ./crashes29.sh programs/dxf2dwg
+	./crashes29.sh
+log.indxf-crashes30: ./crashes30.sh programs/dxf2dwg
+	./crashes30.sh
+log.indxf-crashes31: ./crashes31.sh programs/dxf2dwg
+	./crashes31.sh
 
 log.injson-crashes10: ./crashes10.sh programs/dwgwrite
 	./crashes10.sh

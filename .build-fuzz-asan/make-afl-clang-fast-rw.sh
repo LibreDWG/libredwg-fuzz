@@ -4,14 +4,13 @@ export AFL_PATH=/usr/local/lib/afl
 export AFL_CC="clang"
 echo core | sudo tee /proc/sys/kernel/core_pattern
 set -e
-export AFL_LLVM_WHITELIST=`pwd`/afl-whitelist-injson
+export AFL_LLVM_WHITELIST=`pwd`/afl-whitelist-rw
 export AFL_LLVM_INSTRIM=1
 export AFL_LLVM_INSTRIM_LOOPHEAD=1
 export AFL_LLVM_INSTRIM_SKIPSINGLEBLOCK=1
-export AFL_LLVM_LAF_SPLIT_SWITCHES=1
-#export AFL_LLVM_LAF_ALL=1
+export AFL_LLVM_LAF_ALL=1
 
 AFL_USE_ASAN=1 make -j4 -s -C src
-AFL_USE_ASAN=1 make -j4 -s -C examples dwgfuzz
+AFL_USE_ASAN=1 make -j4 -s -C programs dwgrewrite
 
-./run-afl-clang-fast-injson.sh $@
+./run-afl-clang-fast-rw.sh $@
