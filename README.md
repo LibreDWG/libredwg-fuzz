@@ -44,6 +44,6 @@ AFL_USE_ASAN=1 make -j4 -s -C examples dwgfuzz
 ```
 but this varies monthly. 
 [LTO](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.lto.md) needs clang-11.
-The [PCGUARD](), [NGRAM](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.ngram.md), [CTX](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.ctx.md) and [CmpLog](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.cmplog.md) instrumentations are also worthwhile, 
+The [PCGUARD](), [NGRAM](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.ngram.md), [CTX](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.ctx.md) and [CmpLog](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.cmplog.md) instrumentations are also worthwhile and supported.
 [laf_intel](https://github.com/AFLplusplus/AFLplusplus/blob/stable/llvm_mode/README.laf-intel.md)
 esp. ALL is extremely heavy in such a big library.
