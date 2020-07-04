@@ -1,0 +1,35 @@
+start_time        : 1593862395
+last_update       : 1593882724
+run_time          : 20329
+fuzzer_pid        : 2269677
+cycles_done       : 0
+cycles_wo_finds   : 0
+execs_done        : 231601
+execs_per_sec     : 11.39
+paths_total       : 293
+paths_favored     : 3
+paths_found       : 290
+paths_imported    : 0
+max_depth         : 2
+cur_path          : 0
+pending_favs      : 3
+pending_total     : 293
+variable_paths    : 72
+stability         : 99.96%
+bitmap_cvg        : 26.89%
+unique_crashes    : 0
+unique_hangs      : 4
+last_path         : 1593882684
+last_crash        : 0
+last_hang         : 1593882648
+execs_since_crash : 231601
+exec_timeout      : 220
+slowest_exec_ms   : 0
+peak_rss_mb       : 0
+cpu_affinity      : 0
+edges_found       : 17621
+var_byte_count    : 7
+afl_banner        : dwgfuzz
+afl_version       : ++2.65d
+target_mode       : persistent shmem_testcase deferred 
+command_line      : afl-fuzz -c examples/dwgfuzz.cmplog -m none -L 10 -i ../.fuzz-in -o .fuzz-out examples/dwgfuzz -rw
