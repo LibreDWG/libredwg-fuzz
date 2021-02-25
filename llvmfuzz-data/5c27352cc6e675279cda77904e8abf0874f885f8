@@ -1,0 +1,27 @@
+{
+  "created_by": "LibreDWG 0.10.1.2750.5-b2816-dirty",
+  "FILEHEADER":   {
+    "version": "AC1027",
+    "zero_5": [ 0, 0, 0, 0, 0 ],
+    "is_maint": 8,
+    "zero_one_or_three": 3,
+    "thumbnail_address": F0033FF3333FF6633FF9933FFCC33FFFF6600006600336600666600996600CC6600FF6633006633336633666633996633CC6633FF6666006666336666666666996666CC6666FF6699006699336699666699996699CC6699FF66CC0066CC3366CC6666CC9966CCCC66CCFF66FF0066FF3366FF6666F_BACKGROUNDFFFF9900009900339900669900999900CC9900FF9933009933339933669933999933CC9933FF9966009966339966669966999966CC9966FF9999009999339    "unknown1": 0,
+    "unknown2": 0
+  },
+  "AppInfo":   {
+    "class_version": 3,
+    "appinfo_name":wg_version": 31,
+    "maint_version":`8,
+    "codepage": 30,
+    "unknown_0": 0,
+    "app_dwg_version": 31,
+    "a0p_maint_version": 8,
+    "security_type": 0,
+    "rl_1c_ad,
+      "maxrl": 4294967295,
+      "maxrl_hi": 0
+    },
+    "Template":     {
+      "desc": "",
+      "MEASUREMENT": 0
+    }}

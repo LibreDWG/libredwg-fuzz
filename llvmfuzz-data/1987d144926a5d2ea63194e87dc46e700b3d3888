@@ -1,0 +1,155 @@
+{
+  "created_by": "LibreDWG 0.10.1.2750.5-b2816-dirty",
+  "FILEHEADER":   {
+    "version": "AC1027",
+    "zero_5": [ 0, 0, 0, 0, 0 ],
+    "is_maint": 8,
+    "zero_one_or_three": 3,
+    "thumbnail_address": 448,
+    "dwg_version": 31,
+    "maint_version": 8,
+    "codepage": 30,
+    "unknown_0": 0,
+    "app_dwg_version": 31,
+    "app_maint_version": 8,
+    "security_type": 0,
+    "rl_1c_address": 0,
+    "summaryinfo_address": 288,
+    "vbaproj_address": 0,
+    "rl_28_80": 128
+  },
+  "HEADER":   {
+    "REQUIREDVERSIONS": 0,
+    "unknown,
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 0,
+      "xdic_missing_flag": 1,
+      "has_ds_binary_data": 0,
+      "color": {
+        "index": 256,
+        "rgb": "000000",
+        "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+    03399333399663399993399CC3399FF33CC0033CC3333CC6633CC9933CCCC33CCFF33FF0033FF3333FF6633FF9933FFCC33FFFF6600006600336600666600996600CC6600FF6633006633336633666633996633CC6633FF6666006666336666666666996666CC6666FF6699006699336699666699996699CC6699FF66CC0066CC3366CC6666CC9966CCCC66CCFF66FF0066FF3366FF6666FF9966FFCC66FFFF9900009900339900669900999900CC9900FF9933009933339933669933999933CC9933FF9966009966339966669966999966CC9966FF9999009999339999669999999999CC9999FF99CC0099CC3399CC6699CC9999CCCC99CCFF99FF0099FF3399FF6699FF9999FFCC99FFFFCC0000CC0033CC0066CC0099CC00CCCC00FFCC3300CC3333CC3366CC3399CC33CCCC33FFCC6600CC6633CC6666CC6699CC66CCCC66FFCC9900CC9933CC9966CC9999CC99CCCC99FFCCCC00CCCC33CCCC66CCCC99CCCCCCCCCCFFCCFF00CCFF33CCFF66CCFF99CCFFCCCCFFFFFF0000FF0033FF0066FF0099FF00CCFF00FFFF3300FF3333FF3366FF3399FF33CCFF33FFFF6600FF6633FF6666FF6699FF66CCFF66FFFF9900FF9933FF9966FF9999FF99CCFF99FFFFCC00FFCC33FFCC66FFCC99FFCCCCFFCCFFFFFF00FFFF33FFFF66FFFF99FFFFCCFFFFFF0000000D0D0D1A1A1A2828283535354343435050505D5D5D6B6B6B787878868686939393A1A1A1AEAEAEBBBBBBC9C9C9D6D6D6E4E4E4F1F1F1FFFFFF000000000000000000000000000000000000000000000000000000000000B21171F6000000BA4944415478DAEDD7390E8430144441EE7FDFCE111243C26A692277BD08C25FB65996459224499224499224FDABA47AF86DFCF44EBF5FD42EFD71D73C7C1B402E9F79695DFA26803CBEEED2BAF40500EFC3CF2C90EF9F79695DFA5901C6BFF09B7F09001000400000010200080020600B1070086C010004E61AE7572DC049E295242D1BFA4E24B5277AFCB878A40100000000000000000000000000000000000000000000000000000000000000000000244992244992240DB602BDCE9DEA"
+  },
+  "R2004_Header":   {
+    "file_ID_string": "AcFssFcA\u0011",
+    "header_address": 17,
+    "header_size": 108,
+    "x04": 4,
+    "root_tree_node_gap": 0,
+    "lowermost_left_tree_node_gap": 0,
+    "lowermost_right_tree_node_gap": 0,
+    "unknown_long": 1,
+    "last_section_id": 19,
+    "last_section_address": 31744,
+    "second_header_address": 30674,
+    "num_gaps": 0,
+    "num_sections": 17,
+    "x20": 32,
+    "x80": 128,
+    "x40": 64,
+    "section_map_id": 19,
+    "section_map_address": 30240,
+    "section_info_id": 18,
+    "section_array_size": 19,
+    "gap_array_size": 0,
+    "crc32": 1192824588,
+    "padding": "A4˜M∫Ûp\u001cè˙éË;\u000ecAà"
+  },
+  "SummaryInfo":   {
+    "TITLE": "",
+    "SUBJECT": "",
+    "AUTHOR": null,
+    "KEYWORDS": null,
+    "COMMENTS": "",
+    "LASTSAVEDBY": null,
+    "REVISIONNUMBER": "\u0012\u4011\u4010\u4012",
+    "HYPERLINKBASE": "",
+    "TDINDWG": [ 0, 0 ],
+    "TDCREATE": [ 0, 0 ],
+    "TDUPDATE": [ 0, 0 ],
+    "num_props": 0,
+    "unknown1": 0,
+    "unknown2": 0
+  },
+  "AppInfo":   {
+    "class_version": 3,
+    "appinfo_name": "AppInfoDataList",
+    "num_strings": 2,
+    "version_checksum": "1BD848F3CC0A3E4DBAB1CF81F7B450B3",
+    "version": "19.0.55.0.0",
+    "comment_checksum": "B8D0F025A1D79349B2FA9BF9286FA1FD",
+    "comment": "Autodesk DWG.  This file is a Trusted DWG last saved by an Autodesk application or Autodesk licensed application.",
+    "product_checksum": "00000000000000000000000000000000",
+    "product_info": ""
+  },
+  "AppInfoHistory":   {
+    
+    },
+    "FileDepList":     {
+      "num_features": 2,
+      "features": [
+        {
+          "features[rcount1]": "Acad:Text"
+        },
+        {
+          "features[rcount1]": "Acad:PlotConfig"
+        }
+      ],
+      "num_files": 1,
+      "files": [
+        {
+          "filename": "arial.ttf",
+          "filepath": "C:\\Windows\\FONTS\\",
+          "fingerprint": "",
+          "version": "",
+          "files[rcount1].feature_index": 0,
+          "files[rcount1].timestamp": 995532864,
+          "files[rcount1].filesize": 772192,
+          "files[rcount1].affects_graphics": 1,
+          "files[rcount1].refcount": 2
+        }
+      ]
+    },
+    "Security":     {
+      "unknown_1": 0,
+      "unknown_2": 0,
+      "unknown_3": 0,
+      "crypto_id": 0,
+      "crypto_name": null,
+      "algo_id": 0,
+      "key_len": 0,
+      "encr_size": 0,
+      "encr_buffer": ""
+    },
+    "RevHistory":     {
+      "class_version": 0,
+      "class_minor": 0,
+      "num_histories": 1,
+      "histories": [
+        0
+      ]
+    },
+    "ObjFreeSpace":     {
+      "zero": 0,
+      "num_handles": 223,
+      "TDUPDATE": [ 2456822, 45120044 ],
+      "num_nums": 4,
+      "max32": 50,
+      "max32_hi": 0,
+      "max64": 100,
+      "max64_hi": 0,
+      "maxtbl": 512,
+      "maxtbl_hi": 0,
+      "maxrl": 4294967295,
+      "maxrl_hi": 0
+    },
+    "Template":     {
+      "desc": "",
+      "MEASUREMENT": 0
+    }}

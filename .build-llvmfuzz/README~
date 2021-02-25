@@ -1,0 +1,2 @@
+configure with asan
+see fuzz.sh pointing to a corpus of some dwg, dxf and json. not too large.

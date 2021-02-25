@@ -1,0 +1,5 @@
+configure with asan
+see fuzz.sh pointing to a corpus of some dwg, dxf and json. not too large.
+the quality is much better than with afl++ or honggfuzz. also much easier to use.
+regressions are picked up and re-tested automatically.
+

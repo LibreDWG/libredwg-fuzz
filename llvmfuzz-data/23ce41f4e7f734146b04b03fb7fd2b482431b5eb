@@ -1,0 +1,62 @@
+{
+  "created_by": "LibreDWG 0.10.1.2750.5-b2816-dirty",
+  "FILEHEADER":   {
+    "version": "AC1027",
+    "zero_5": [ 0, 0, 0, 0, 0 ],
+    "is_maint": 8,
+    "zero_one_or_three": 3,
+    "thumbnail_address": 448,
+    "dwg_version": 31,
+    "maint_version": 8,
+    "codepage": 30,
+    "unknown_0": 0,
+    "app_dwg_version": 31,
+    "a0p_maint_version": 8,
+    "security_type": 0,
+    "rl_1c_address": 0,
+    "summaryinfo_address": 288,
+    "vbaproj_address": 0,
+    "rl_2-8_80": 128
+  },
+  "HEADER":   {
+    "REQUIREDVERSIONS": 0,
+    "unknown,
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 0,
+      "xdic_missing_flag":ACIS BinaryFile 1,
+      "has_ds_binary_data": 0,
+      "color": {
+        "index": 256,
+        "rgb": "000000",
+        "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltype_flags": 0,
+    033993333996633999933NUMBER": "\u0012\u4011\u4010\u4012",
+    "HYPERLINKBASE": "",
+    "TDINDWG": [ 0, 0 ],
+    "TDCREATE": [ 0, 0 ],
+    "TDUPDATE": [ 0, 0 ],
+    ress": 0,
+    "rl_28_80": 128
+  },
+  "HEADER":   {
+    "REQUIRunknown,
+      "layer": [5, 16],
+      "preview_exists": 0,
+      "entmode": 2,
+      "num_reactors": 0,
+      "xdic_misB1CF81F7B450B3",
+    "version": "19.0.55.0.0",
+    "comment_checksum": "B8D0F025A1D79349B2FA9BF9286FA1FD",
+    "comment": "Autodesk DWG.  This fi|e is a Trusted DWG last saved by an Autodesk application or Autodesk license.ttfd application.",
+    "product_checksum": "00000000000000000000000000000000",
+    "product_info": ""294967295,
+      "maxrl_hi": 0
+    },
+    "Template":     {
+      "desc": "",
+      "MEASUREMENT": 0
+    }}

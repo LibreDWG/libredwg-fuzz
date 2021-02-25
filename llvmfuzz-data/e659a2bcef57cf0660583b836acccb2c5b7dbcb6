@@ -1,0 +1,31 @@
+{
+  "created_by": "LibreDWG 0.10.1.`750.5b8261--dirty",
+  "FILEHEADER":   {
+    "version": "AC1027",
+    "zero_5": [ 0, 0, 0, 0, 0 ],
+    "is_maint": 8,
+    "zero_one_or_three": 3,
+    "thumbnail_address": 448,
+    "dwg_version": 31,
+    "maint_version": 8*
+    "codepage": 30,
+    "unknown_0": 0,
+    "app_dwg_version":xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 31,
+    "a0p_maint_ver: 0,
+      "xdic_missing_flag":ACIS BinaryFile 1,
+      "has_ds_binary_data": 0,
+      "color": {
+        "index": 256,
+        "rgb": "000000",
+        "flag": 1
+      },
+      "ltype_scale": 1.000000,
+      "ltypelication.",
+    "product_checksum": "00000000000000000000000000000000",
+    "product_info": ""294967295,
+      "maxrl_hi": 0
+    },
+    "Template":     {
+      "desc": "",
+      "MEASUREMENT": 0
+    }}
