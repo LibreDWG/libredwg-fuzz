@@ -1,6 +1,6 @@
 Command line used to find this crash:
 
-afl-fuzz -M m -L 10 -m none -i ../.fuzz-in-dxf -o .fuzz-out programs/dxf2dwg @@
+afl-fuzz -S s1 -L 10 -p coe -m none -i ../.fuzz-in-dxf -o .fuzz-out examples/dwgfuzz -indxf
 
 If you can't reproduce a bug outside of afl-fuzz, be sure to set the same
 memory limit. The limit used for this fuzzing session was 0 B.

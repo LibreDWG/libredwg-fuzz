@@ -7,11 +7,12 @@ echo core | sudo tee /proc/sys/kernel/core_pattern
 export AFL_USE_ASAN=1
 # with cmplog instrument all. encode and decode are by far the biggest.
 # this binary can then be used with many options.
-# possible mode: -indxf -indxf -rw -dwg
+# possible mode: -injson -indxf -rw -dwg
 # not possible: -dxf -dxfb -json
-export AFL_LLVM_WHITELIST=`pwd`/afl-whitelist-most
-#export AFL_LLVM_WHITELIST=`pwd`/afl-whitelist-rw
-export AFL_LLVM_INSTRUMENT=CFG,NGRAM-2
+#export AFL_LLVM_WHITELIST=`pwd`/afl-whitelist-most
+export AFL_LLVM_WHITELIST=`pwd`/afl-whitelist-rw
+export AFL_LLVM_INSTRUMENT=CFG
+#export AFL_LLVM_INSTRUMENT=CFG,NGRAM-2
 export AFL_LLVM_INSTRIM_LOOPHEAD=1
 export AFL_LLVM_INSTRIM_SKIPSINGLEBLOCK=1
 export AFL_LLVM_LAF_SPLIT_SWITCHES=1

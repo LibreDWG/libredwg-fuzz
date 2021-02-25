@@ -15,18 +15,24 @@ INDXF=  log.indxf-crashes \
 	log.indxf-crashes28 \
 	log.indxf-crashes29 \
 	log.indxf-crashes30 \
-	log.indxf-crashes31
+	log.indxf-crashes31 \
+	log.indxf-crashes33 \
+	log.indxf-crashes34
 RW=	log.rw-crashes7 \
 	log.rw-crashes8 \
 	log.rw-crashes13 \
 	log.rw-crashes14 \
 	log.rw-crashes15 \
 	log.rw-crashes16 \
-	log.rw-gh178
-OUTDXF= log.outdxf-gh176 \
+	log.rw-crashes32 \
+	log.rw-gh178 \
+	log.rw-gh307 \
+	log.rw-gh309
+OUTDXF= log.dxf-gh176 \
 	log.dxf-gh183
 SVG=    log.svg2-gh179 \
-	log.SVG-gh182
+	log.SVG-gh182 \
+	log.SVG-gh305
 BMP=	log.bmp-gh188
 INJSON= log.injson-crashes10 \
         log.injson-crashes18 \
@@ -36,16 +42,22 @@ INJSON= log.injson-crashes10 \
         log.injson-crashes22 \
         log.injson-crashes23 \
         log.injson-crashes24
-OUTJSON=
+OUTJSON=log.json-crashes35 \
+	log.json-gh306
+DWG=    log.dwg-gh304
+ADD=    log.add-crashes36
+LAYERS= log.layers-gh308
 
-all:    $(INDXF) $(INJSON) $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON)
+all:    $(wildcard crashes*.sh) $(wildcard gh*.sh)
+dwg:    $(DWG)
 injson: $(INJSON)
 indxf:  $(INDXF)
 rw:     $(RW)
+add:    $(ADD)
 outdxf: $(OUTDXF)
 svg:    $(SVG)
 bmp:    $(BMP)
-decode: $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON)
+decode: $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON) $(DWG)
 encode: $(RW) $(INDXF) $(INJSON)
 dxf:    $(OUTDXF) $(INDXF)
 json:   $(OUTJSON) $(INJSON)
@@ -59,7 +71,11 @@ fail:
 	  [ -s "$$l" ] && echo "$$l" >> fail; done
 	make -j4 -f makefile-fuzz `cat fail`
 
-log.outdxf-gh176: gh176.sh programs/dwg2dxf 
+log.dwg-gh%: gh%.sh programs/dwgread 
+	./$<
+log.dxf-gh%: gh%.sh programs/dwg2dxf 
+	./$<
+log.dxf-gh176: gh176.sh programs/dwg2dxf 
 	./gh176.sh
 log.rw-gh178: gh178.sh programs/dwgrewrite
 	./gh178.sh
@@ -106,6 +122,10 @@ log.indxf-crashes30: ./crashes30.sh programs/dxf2dwg
 	./crashes30.sh
 log.indxf-crashes31: ./crashes31.sh programs/dxf2dwg
 	./crashes31.sh
+log.indxf-crashes33: ./crashes33.sh programs/dxf2dwg
+	./crashes33.sh
+log.indxf-crashes34: ./crashes34.sh programs/dxf2dwg
+	./crashes34.sh
 
 log.injson-crashes10: ./crashes10.sh programs/dwgwrite
 	./crashes10.sh
@@ -136,3 +156,10 @@ log.rw-crashes7: ./crashes7.sh programs/dwgrewrite
 	./crashes7.sh
 log.rw-crashes8: ./crashes8.sh programs/dwgrewrite
 	./crashes8.sh
+log.rw-crashes32: ./crashes32.sh programs/dwgrewrite
+	./crashes32.sh
+
+log.dwg-crashes35: ./crashes35.sh programs/dwgread
+	./crashes35.sh
+log.add-crashes36: ./crashes36.sh examples/dwgfuzz
+	./crashes36.sh
