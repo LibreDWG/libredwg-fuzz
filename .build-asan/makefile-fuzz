@@ -48,7 +48,8 @@ DWG=    log.dwg-gh304
 ADD=    log.add-crashes36
 LAYERS= log.layers-gh308
 
-all:    $(wildcard crashes*.sh) $(wildcard gh*.sh)
+all:
+	echo $(wildcard ./crashes*.sh) $(wildcard ./gh*.sh) | parallel -j4
 dwg:    $(DWG)
 injson: $(INJSON)
 indxf:  $(INDXF)
