@@ -1,55 +1,17 @@
 # -*- makefile -*-
-INDXF=  log.indxf-crashes \
-	log.indxf-crashes1 \
-	log.indxf-crashes2 \
-	log.indxf-crashes3 \
-	log.indxf-crashes4 \
-	log.indxf-crashes5 \
-	log.indxf-crashes6 \
-	log.indxf-gh186 \
-	log.indxf-gh189 \
-	log.indxf-gh190 \
-	log.indxf-crashes25 \
-	log.indxf-crashes26 \
-	log.indxf-crashes27 \
-	log.indxf-crashes28 \
-	log.indxf-crashes29 \
-	log.indxf-crashes30 \
-	log.indxf-crashes31 \
-	log.indxf-crashes33 \
-	log.indxf-crashes34
-RW=	log.rw-crashes7 \
-	log.rw-crashes8 \
-	log.rw-crashes13 \
-	log.rw-crashes14 \
-	log.rw-crashes15 \
-	log.rw-crashes16 \
-	log.rw-crashes32 \
-	log.rw-gh178 \
-	log.rw-gh307 \
-	log.rw-gh309
-OUTDXF= log.dxf-gh176 \
-	log.dxf-gh183
-SVG=    log.svg2-gh179 \
-	log.SVG-gh182 \
-	log.SVG-gh305
-BMP=	log.bmp-gh188
-INJSON= log.injson-crashes10 \
-        log.injson-crashes18 \
-        log.injson-crashes19 \
-        log.injson-crashes20 \
-        log.injson-crashes21 \
-        log.injson-crashes22 \
-        log.injson-crashes23 \
-        log.injson-crashes24
-OUTJSON=log.json-crashes35 \
-	log.json-gh306
-DWG=    log.dwg-gh304
-ADD=    log.add-crashes36
-LAYERS= log.layers-gh308
+INDXF=  $(wildcard log.indxf-crashes[0-9]* log.indxf-gh[0-9]*)
+INJSON= $(wildcard log.injson-crashes[0-9]* log.injson-gh[0-9]*)
+RW =    $(wildcard log.rw-crashes[0-9]* log.rw-gh[0-9]*)
+SVG =   $(wildcard log.SVG-gh[0-9]* log.svg2-gh[0-9]*)
+BMP=	$(wildcard log.bmp-gh[0-9]*)
+OUTDXF= $(wildcard log.dxf-crashes[0-9]* log.dxf-gh[0-9]*)
+OUTJSON=$(wildcard log.json-crashes[0-9]* log.json-gh[0-9]*)
+DWG=    $(wildcard log.dwg-crashes[0-9]* log.dwg-gh[0-9]*)
+ADD=    $(wildcard log.add-crashes[0-9]* log.add-gh[0-9]*)
+LAYERS= $(wildcard log.layers-crashes[0-9]* log.layers-gh[0-9]*)
+ALL =   $(wildcard log.*-crashes[0-9]* log.*-gh[0-9]*)
 
-all:
-	echo $(wildcard ./crashes*.sh) $(wildcard ./gh*.sh) | parallel -j4
+all:    $(ALL)
 dwg:    $(DWG)
 injson: $(INJSON)
 indxf:  $(INDXF)
@@ -62,105 +24,52 @@ decode: $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON) $(DWG)
 encode: $(RW) $(INDXF) $(INJSON)
 dxf:    $(OUTDXF) $(INDXF)
 json:   $(OUTJSON) $(INJSON)
+layers: $(LAYERS)
 
 .PHONY: fail
 
 # do it in parallel, so collect all failures beforehand
 fail:
 	-rm fail 2>/dev/null
-	-for l in $(INDXF) $(INJSON) $(RW) $(OUTDXF) $(SVG) $(BMP) $(OUTJSON); do \
+	-for l in $(ALL); do \
 	  [ -s "$$l" ] && echo "$$l" >> fail; done
 	make -j4 -f makefile-fuzz `cat fail`
 
+log.dwg-crashes%: crashes%.sh programs/dwgread 
+	./$<
 log.dwg-gh%: gh%.sh programs/dwgread 
+	./$<
+log.bmp-crashes%: crashes%.sh programs/dwgbmp
+	./$<
+log.bmp-gh%: gh%.sh programs/dwgbmp
+	./$<
+log.rw-crashes%: crashes%.sh programs/dwgrewrite
+	./$<
+log.rw-gh%: gh%.sh programs/dwgrewrite
+	./$<
+log.SVG-crashes%: crashes%.sh programs/dwg2SVG
+	./$<
+log.SVG-gh%: gh%.sh programs/dwg2SVG
+	./$<
+log.svg2-gh%: gh%.sh examples/dwg2svg2
+	./$<
+log.dxf-crashes%: crashes%.sh programs/dwg2dxf 
 	./$<
 log.dxf-gh%: gh%.sh programs/dwg2dxf 
 	./$<
-log.dxf-gh176: gh176.sh programs/dwg2dxf 
-	./gh176.sh
-log.rw-gh178: gh178.sh programs/dwgrewrite
-	./gh178.sh
-log.svg2-gh179: gh179.sh examples/dwg2svg2
-	./gh179.sh
-log.SVG-gh182: gh182.sh programs/dwg2SVG
-	./gh182.sh
-log.dxf-gh183: gh183.sh programs/dwg2dxf
-	./gh183.sh
-log.indxf-gh186: gh186.sh programs/dxf2dwg
-	./gh186.sh
-log.bmp-gh188: gh188.sh programs/dwgbmp
-	./gh188.sh
-
-log.indxf-gh189: gh189.sh programs/dxf2dwg
-	./gh189.sh
-log.indxf-gh190: gh190.sh programs/dxf2dwg
-	./gh190.sh
-log.indxf-crashes: ./crashes.sh programs/dxf2dwg
-	./crashes.sh
-log.indxf-crashes1: ./crashes1.sh programs/dxf2dwg
-	./crashes1.sh
-log.indxf-crashes2: ./crashes2.sh programs/dxf2dwg
-	./crashes2.sh
-log.indxf-crashes3: ./crashes3.sh programs/dxf2dwg
-	./crashes3.sh
-log.indxf-crashes4: ./crashes4.sh programs/dxf2dwg
-	./crashes4.sh
-log.indxf-crashes5: ./crashes5.sh programs/dxf2dwg
-	./crashes5.sh
-log.indxf-crashes6: ./crashes6.sh programs/dxf2dwg
-	./crashes6.sh
-log.indxf-crashes25: ./crashes25.sh programs/dxf2dwg
-	./crashes25.sh
-log.indxf-crashes26: ./crashes26.sh programs/dxf2dwg
-	./crashes26.sh
-log.indxf-crashes27: ./crashes27.sh programs/dxf2dwg
-	./crashes27.sh
-log.indxf-crashes28: ./crashes28.sh programs/dxf2dwg
-	./crashes28.sh
-log.indxf-crashes29: ./crashes29.sh programs/dxf2dwg
-	./crashes29.sh
-log.indxf-crashes30: ./crashes30.sh programs/dxf2dwg
-	./crashes30.sh
-log.indxf-crashes31: ./crashes31.sh programs/dxf2dwg
-	./crashes31.sh
-log.indxf-crashes33: ./crashes33.sh programs/dxf2dwg
-	./crashes33.sh
-log.indxf-crashes34: ./crashes34.sh programs/dxf2dwg
-	./crashes34.sh
-
-log.injson-crashes10: ./crashes10.sh programs/dwgwrite
-	./crashes10.sh
-log.injson-crashes18: ./crashes18.sh programs/dwgwrite
-	./crashes18.sh
-log.injson-crashes19: ./crashes19.sh programs/dwgwrite
-	./crashes19.sh
-log.injson-crashes20: ./crashes20.sh programs/dwgwrite
-	./crashes20.sh
-log.injson-crashes21: ./crashes21.sh programs/dwgwrite
-	./crashes21.sh
-log.injson-crashes22: ./crashes22.sh programs/dwgwrite
-	./crashes22.sh
-log.injson-crashes23: ./crashes23.sh programs/dwgwrite
-	./crashes23.sh
-log.injson-crashes24: ./crashes24.sh programs/dwgwrite
-	./crashes24.sh
-
-log.rw-crashes13: ./crashes13.sh programs/dwgrewrite
-	./crashes13.sh
-log.rw-crashes14: ./crashes14.sh programs/dwgrewrite
-	./crashes14.sh
-log.rw-crashes15: ./crashes15.sh programs/dwgrewrite
-	./crashes15.sh
-log.rw-crashes16: ./crashes16.sh programs/dwgrewrite
-	./crashes16.sh
-log.rw-crashes7: ./crashes7.sh programs/dwgrewrite
-	./crashes7.sh
-log.rw-crashes8: ./crashes8.sh programs/dwgrewrite
-	./crashes8.sh
-log.rw-crashes32: ./crashes32.sh programs/dwgrewrite
-	./crashes32.sh
-
-log.dwg-crashes35: ./crashes35.sh programs/dwgread
-	./crashes35.sh
-log.add-crashes36: ./crashes36.sh examples/dwgfuzz
-	./crashes36.sh
+log.json-crashes%: crashes%.sh programs/dwgread
+	./$<
+log.json-gh%: gh%.sh programs/dwgread
+	./$<
+log.injson-crashes%: crashes%.sh programs/dwgwrite
+	./$<
+log.injson-gh%: gh%.sh programs/dwgwrite
+	./$<
+log.indxf-crashes%: crashes%.sh programs/dxf2dwg
+	./$<
+log.indxf-gh%: gh%.sh programs/dxf2dwg
+	./$<
+log.add-crashes%: crashes%.sh examples/dwgadd
+	./$<
+log.add-gh%: gh%.sh examples/dwgadd
+	./$<
