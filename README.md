@@ -12,7 +12,7 @@ see `fuzzlib.sh`
 
 fuzzer targets are injson, indxf, rw, outdxf, outjson, svg, bmp.
 
-fuzz output directories are numbered, and mainrained in the
+fuzz output directories are numbered, and maintained in the
 `makefile-fuzz` and the `crashes*.sh` scripts.
 
 To verify against regressions either run the binaries against all old
