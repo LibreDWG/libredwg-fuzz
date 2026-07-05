@@ -5,5 +5,5 @@ export AFL_PATH=/usr/local/lib/afl
 # -L 10 clashes with -R
 # old: -v0 -y -o /dev/null
 # if from file needs @@
-afl-fuzz $@ -m none -i ../.fuzz-in-dxf -o .fuzz-out \
+afl-fuzz $@ -m none -i .fuzz-in-dxf -o .fuzz-out \
   examples/dwgfuzz -indxf
